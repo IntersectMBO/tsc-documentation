@@ -1,8 +1,3 @@
-
-**REMOVE**
-- the child repository MUST be named Technical Steering-committee-documentation, with no abbreviations
-- the child repository MUST be public
-
 # Technical Steering Committee Documentation
 
 This repository stores the documentation for Technical Steering committee.
