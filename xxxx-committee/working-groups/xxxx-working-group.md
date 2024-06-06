@@ -1,4 +1,4 @@
-# xxxx Working Group
+# Technical Steering Working Group
 
 ## Purpose / Goal
 
