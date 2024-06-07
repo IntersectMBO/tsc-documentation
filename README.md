@@ -1,7 +1,7 @@
 # Technical Steering Committee Documentation
 
 This repository stores the documentation for Technical Steering committee.
-This documentation is hosted (for reading) at [intersect.gitbook.io/Technical Steering-committee](https://intersect.gitbook.io/Technical-Steering-committee).
+This documentation is hosted (for reading) at [intersect.gitbook.io/Technical-Steering-committee](https://intersect.gitbook.io/Technical-Steering-committee).
 
 ## 🤝 Contributing
 
