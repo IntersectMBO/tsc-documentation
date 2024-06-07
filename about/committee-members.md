@@ -1,0 +1,26 @@
+# Committee members
+
+{% hint style="info" %}
+The Technical Steering Committee is currently in an interim phase and currently does not yet have member representation. For more information on how to join please contact Head of Community & Membership Nick.Cook@intersectmbo.org
+{% endhint %}
+
+### Seated Members
+
+* Chair: TBC
+* Interim Secretary: Duncan Soutar (Intersect Delivery Assurance Team)
+* Communications: TBC
+
+Other roles are expected to be defined by the first community members of the TSC.&#x20;
+
+### Intersect Delivery Assurance team
+
+The Delivery Assurance team within Intersect is the functional support team to the TSC. This is a servant-leader team to support coordination and execution on behalf of the committee. As such the delivery assurance team are present at the TSC. &#x20;
+
+### Continuity suppliers
+
+[Continuity suppliers](https://www.intersectmbo.org/news/cardano-continuity) (any one under contract to deliver core functionality or features) are also requested to attend the TSC as required by the delivery assurance team.
+
+Continuity suppliers do not automatically have right to a seat on the committee but may be requested to attend to provide updates to the committee members, delivery assurance team and other continuity suppliers for delivery updates, coordination and integration purposes.&#x20;
+
+
+
