@@ -1,8 +1,16 @@
 # Committee members
 
 {% hint style="info" %}
-The Technical Steering Committee is currently in an interim phase and currently does not yet have member representation. For more information on how to join please contact Head of Community & Membership Nick.Cook@intersectmbo.org
+The Technical Steering Committee is currently in an interim phase and currently does not yet have member representation.&#x20;
 {% endhint %}
+
+## Committee Composition
+
+1 Chair
+
+9 Seats
+
+1 Secretary
 
 ### Seated Members
 
