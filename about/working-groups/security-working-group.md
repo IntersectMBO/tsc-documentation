@@ -73,12 +73,12 @@ Working Group Structure:
 \
 
 
-| Role       | Nominee                                      | Responsibility                                                                                      |
-| ---------- | -------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Chair      | Matt Davis                                   | Serve as agenda setter, moving the working group in direction of it’s assigned or agreed objectives |
-| Vice Chair | Kevin Hammond                                | Support the chair in the same capacity and serve as delegate if chair unavailable                   |
-| Secretary  | Christian Taylor                             | Serves as liaison for working group, taking minutes, publications, and admin                        |
-| Seats      | Nick Clarke, Andrew Westberg, Rick McCracken | Serve as decision body composition, analysis work, and contribution to working group directly       |
+| Role       | Nominee | Responsibility                                                                                      |
+| ---------- | ------- | --------------------------------------------------------------------------------------------------- |
+| Chair      | N/A     | Serve as agenda setter, moving the working group in direction of it’s assigned or agreed objectives |
+| Vice Chair | N/A     | Support the chair in the same capacity and serve as delegate if chair unavailable                   |
+| Secretary  | N/A     | Serves as liaison for working group, taking minutes, publications, and admin                        |
+| Seats      | N/A     | Serve as decision body composition, analysis work, and contribution to working group directly       |
 
 
 
