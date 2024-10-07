@@ -20,6 +20,10 @@ The Technical Steering Committee is currently in an interim phase and currently 
 
 Other roles are expected to be defined by the first community members of the TSC.&#x20;
 
+### Voting Seat Criteria
+
+Demonstrated expert knowledge of the Cardano design and implementation, evidenced by a track record of core contributions.
+
 ### Intersect Delivery Assurance team
 
 The Delivery Assurance team within Intersect is the functional support team to the TSC. This is a servant-leader team to support coordination and execution on behalf of the committee. As such the delivery assurance team are present at the TSC. &#x20;
