@@ -1,11 +1,5 @@
 # About Technical Steering Committee
 
-{% hint style="info" %}
-The Technical Steering Committee is currently in an interim phase and currently does not yet have member representation.&#x20;
-
-For more information on how to join please contact Nick Cook (Head of Community & Membership) at [nick.cook@intersectmbo.org](mailto:nick.cook@intersectmbo.org)
-{% endhint %}
-
 ## What is the Technical Steering Committee?
 
 The Technical Steering Committee (TSC) ensures that the governance of Cardano is based upon sound technical awareness and best practices. The committee's duties are expected to include:&#x20;
@@ -24,7 +18,7 @@ The committee is a rallying point for key members, suppliers, and third parties 
 
 ## Which topics does this committee cover?
 
-The TSC takes a leading role in defining and advising on [Cardano continuity](https://app.gitbook.com/s/o50OuflyxfUMOt8hHPn2/intersect-overview/working-on-cardano) development to support the Cardano network, including contracts and agreements with Intersect members. It’s a highly technocratic committee, providing deep technical analysis and advice to ongoing development projects, parameters settings (through the [Parameter Committee](https://app.gitbook.com/s/o50OuflyxfUMOt8hHPn2/intersect-overview/intersect-committees/parameter-committee-pc)), and any other network related conditions.
+The TSC takes a leading role in defining and advising on [Cardano continuity](https://app.gitbook.com/s/o50OuflyxfUMOt8hHPn2/intersect-overview/working-on-cardano) development to support the Cardano network, including contracts and agreements with Intersect members. It’s a highly technocratic committee, providing deep technical analysis and advice to ongoing development projects, parameters settings (through the [Parameter Committee](https://app.gitbook.com/s/o50OuflyxfUMOt8hHPn2/intersect-overview/intersect-committees/technical-steering-committee-tsc/parameter-committee-pc)), and any other network related conditions.
 
 It is proposed the TSC will work in conjunction with the [budget committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/gsGMUGjBGIwHbN0vrf7v/) for budgetary assignment, ratification, and other financial matters. It is also proposed the TSC will work in combination with the proposed backlog committee, under the premise of the backlog committee being responsible for the ‘what’, and the TSC for the ‘how’.
 
