@@ -20,6 +20,22 @@ The Technical Steering Committee is currently in an interim phase and currently 
 
 Other roles are expected to be defined by the first community members of the TSC.&#x20;
 
+
+
+| Role            | Name            | Term Rotations  |
+| --------------- | --------------- | --------------- |
+| Chair (Interim) | Kevin Hammond   | April           |
+| Secretary       | Duncan Soutar   | N/A - Secretary |
+| Voting Seat     | Duncan Coutts   | April           |
+| Voting Seat     | Adam Dean       | April           |
+| Voting Seat     | Neil Davies     | April           |
+| Voting Seat     | Nicholas Clarke | April           |
+| Voting Seat     | TBC             | October         |
+| Voting Seat     | TBC             | October         |
+| Voting Seat     | TBC             | October         |
+| Voting Seat     | TBC             | October         |
+| Voting Seat     | TBC             | October         |
+
 ### Voting Seat Criteria
 
 Demonstrated expert knowledge of the Cardano design and implementation, evidenced by a track record of core contributions.
