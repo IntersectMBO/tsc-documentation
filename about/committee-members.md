@@ -24,17 +24,17 @@ Other roles are expected to be defined by the first community members of the TSC
 
 | Role            | Name            | Term Rotations  |
 | --------------- | --------------- | --------------- |
-| Chair (Interim) | Kevin Hammond   | April           |
+| Chair (Interim) | Kevin Hammond   | October '25     |
 | Secretary       | Duncan Soutar   | N/A - Secretary |
-| Voting Seat     | Duncan Coutts   | April           |
-| Voting Seat     | Adam Dean       | April           |
-| Voting Seat     | Neil Davies     | April           |
-| Voting Seat     | Nicholas Clarke | April           |
-| Voting Seat     | TBC             | October         |
-| Voting Seat     | TBC             | October         |
-| Voting Seat     | TBC             | October         |
-| Voting Seat     | TBC             | October         |
-| Voting Seat     | TBC             | October         |
+| Voting Seat     | Duncan Coutts   | April '25       |
+| Voting Seat     | Adam Dean       | October '25     |
+| Voting Seat     | Neil Davies     | April '25       |
+| Voting Seat     | Nicholas Clarke | April '25       |
+| Voting Seat     | Markus Gufler   | October '25     |
+| Voting Seat     | Ben Hart        | October '25     |
+| Voting Seat     | Johnny Kelly    | October '25     |
+| Voting Seat     | Empty Seat      | April '25       |
+| Voting Seat     | Empty Seat      | April '25       |
 
 ### Voting Seat Criteria
 
