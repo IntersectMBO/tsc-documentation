@@ -15,6 +15,7 @@
   * [23rd October](tsc-meeting-minutes/23rd-october.md)
   * [2nd Oct 24](tsc-meeting-minutes/2nd-oct-24.md)
   * [25th Sept 24](tsc-meeting-minutes/25th-sept-24.md)
+  * [28th August 24](tsc-meeting-minutes/28th-august-24.md)
   * [31st July 24](tsc-meeting-minutes/31st-july-24.md)
   * [17th July](tsc-meeting-minutes/17th-july.md)
   * [19th June](tsc-meeting-minutes/19th-june.md)
