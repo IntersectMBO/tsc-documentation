@@ -11,7 +11,7 @@
 ***
 
 * [TSC Meeting Minutes](tsc-meeting-minutes/README.md)
-  * [6th November](tsc-meeting-minutes/6th-november.md)
+  * [6th Nov 24](tsc-meeting-minutes/6th-nov-24.md)
   * [30th Oct 24](tsc-meeting-minutes/30th-oct-24.md)
   * [23rd October](tsc-meeting-minutes/23rd-october.md)
   * [2nd Oct 24](tsc-meeting-minutes/2nd-oct-24.md)

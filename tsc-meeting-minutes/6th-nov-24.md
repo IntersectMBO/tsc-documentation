@@ -1,4 +1,4 @@
-# 6th November
+# 6th Nov 24
 
 Attendees: Duncan Soutar Duncan Coutts Hwang Hongket, Ben Hart, Adam Dean, Johnny Kelly, Neil Davies, Kevin Hammond, Matt Davies, Markus Gufler
 
