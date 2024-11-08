@@ -21,10 +21,9 @@ The Security Council (SC) is a dedicated group responsible for ensuring the secu
 5. Security Awareness:\
    Educate stakeholders and community members on security best practices and emerging threats. Foster a security-aware culture to enhance the overall security posture of the ecosystem through educational outreach opportunities as appropriate.
 6. Security Assessment of Code:\
-   Assess the quality and security of contracts and code for integrations, edits, and compliance, ensuring adherence to security standards and best practices. Manage and allocate budget for these assessments as necessary.\
+   Assess the quality and security of contracts and code for integrations, edits, and compliance, ensuring adherence to security standards and best practices. Manage and allocate budget for these assessments as necessary.
 
-
-Guiding Principles:
+#### Guiding Principles:
 
 * Confidentiality: Ensure sensitive information is restricted to those who need to know.
 * Integrity: Maintain the accuracy and reliability of data and systems.
@@ -33,14 +32,11 @@ Guiding Principles:
 
 "To establish and maintain a robust security posture for the Cardano blockchain ecosystem by effectively managing security risks, responding to incidents, and fostering a security-aware community.”
 
-\
-Authority:\
+#### Authority:
+
 The Council operates and reports to the Technical Steering Committee but acts autonomously for the betterment of Cardano. It is accountable for overseeing the security processes, managing incident responses, and ensuring compliance with security policies.
 
-\
-Because of the above (Mission + Authority), we will be focusing on:
-
-**Strategic Pillars:**
+#### **Strategic Pillars:**
 
 1. Core Cardano Security:\
    Ensure the security and integrity of the core Cardano blockchain by implementing rigorous security measures and protocols. Focus on safeguarding the foundational infrastructure of the ecosystem.
@@ -57,7 +53,7 @@ In these Areas (Strategic Pillars), we aim for:
 4. To provide regular security assessments and audits.
 5. To educate and inform the community on security-related matters.
 
-Voting Procedure:
+#### Voting Procedure:
 
 1. In Person or Video Meeting Voting Procedures: All topics on which the Council will take a vote will need a simple working group majority tallied during the meeting, tally and action to be recorded by the Secretary.
 2. Offline Voting Procedures: All topics on which the Council will take a vote will need a simple working group majority tallied with any tool the Council agrees to utilize. Current voting procedure utilizes Slack where one or multiple topics will be posted to also for working group comments and the ability to mark a vote based on emojis as dictated by the post instructions. A simple majority of the correct emoji is needed to continue proceedings.
@@ -65,29 +61,14 @@ Voting Procedure:
 4. A vote by a WG: should be considered binding if it receives a simple majority of positive votes from a quorum consisting of at least two thirds of the working group members being present and participating in the vote
 5. In the case of an emergency: this process may be circumvented in the best interest of resolution and then followed on by this process as appropriate.
 
-\
-Working Group Structure:
-
-\
-
-
-| Role       | Nominee | Responsibility                                                                                      |
-| ---------- | ------- | --------------------------------------------------------------------------------------------------- |
-| Chair      | N/A     | Serve as agenda setter, moving the working group in direction of it’s assigned or agreed objectives |
-| Vice Chair | N/A     | Support the chair in the same capacity and serve as delegate if chair unavailable                   |
-| Secretary  | N/A     | Serves as liaison for working group, taking minutes, publications, and admin                        |
-| Seats      | N/A     | Serve as decision body composition, analysis work, and contribution to working group directly       |
-
-
-
-Membership Criteria:
+#### Membership Criteria:
 
 * The SC will be composed of members from the Intersect organization and other stakeholders within the Cardano ecosystem.
 * Members will be selected based on their expertise in blockchain technology, cybersecurity, and incident response.
 
-Proposed Roles for SWG:
+#### Proposed Roles for Security Council:
 
-1. Chairperson: Lead the SWG, coordinate meetings, and ensure the group achieves its objectives.
+1. Chairperson: Lead the SC, coordinate meetings, and ensure the group achieves its objectives.
 2. Incident Response Lead: Oversee the development and execution of the incident response plan.
 3. Risk Manager: Identify and assess security risks, and develop mitigation strategies.
 4. Policy Coordinator: Develop and maintain security policies and standards.
@@ -95,7 +76,7 @@ Proposed Roles for SWG:
 6. Security Assessment liaison
 
 Brief Summary of Policy roles:\
-Security Working Group (SWG):
+Security Council (SC):
 
 * Approve individuals given access to sensitive information.
 * Establish and maintain vetting procedures for insiders and the Security Manager.
@@ -126,42 +107,43 @@ Responder:
 * Communicate with Finders and manage information discipline.
 * Report activities to the SM.
 
-Nomination Criteria:\
-Technical Expertise
+#### Nomination Criteria:
+
+**Technical Expertise**
 
 * Cardano & Cybersecurity: Deep understanding of Cardano blockchain (architecture, protocols, security features). Knowledge of smart contracts, consensus mechanisms, and transaction validation.
 * Certifications: CISSP, CISM, CEH, or similar are highly valued, reflecting a solid cybersecurity foundation.
 * Incident Management: Practical experience in managing and mitigating security incidents in blockchain environments, including use of incident response tools.
 
-#### Experience
+**Experience**
 
 * Cybersecurity (3-5 years): Minimum of 3-5 years, specifically in blockchain technologies, focusing on securing networks, applications, and infrastructure.
 * Incident Response: Proven experience in incident response, root cause analysis, and implementing corrective actions.
 * Risk Management: Experience in risk assessments, vulnerability identification, and security policy development.
 
-#### Community Involvement
+**Community Involvement**
 
 * Cardano Community: Active participation and contributions to open-source projects or security forums within the Cardano ecosystem.
 
-#### Trustworthiness
+**Trustworthiness**
 
 * Integrity: High level of trustworthiness, essential for sensitive information.
-* Recommendations: Endorsements from SWG members or respected community members.
+* Recommendations: Endorsements from SC members or respected community members.
 
-#### Commitment
+**Commitment**
 
 * Dedication: Willingness to commit time, attend meetings, and respond promptly to security incidents.
-* Collaboration: Effective teamwork and communication with SWG members.
+* Collaboration: Effective teamwork and communication with SC members.
 
-#### Communication Skills
+**Communication Skills**
 
 * Clarity: Strong verbal and written skills for explaining complex concepts.
 * Documentation: Experience in drafting and reviewing security-related documentation.
 
-#### Nomination Process
+**Nomination Process**
 
-1. Submission: Nominations by SWG members, Intersect board members, or self-nominations.
-2. Review: SWG reviews to ensure criteria are met.
+1. Submission: Nominations by SC members, Intersect board members, or self-nominations.
+2. Review: SC reviews to ensure criteria are met.
 3. Approval: Final vetting by the TSC.
 4. Confidentiality: Nominee identities are kept confidential during the process.
 
