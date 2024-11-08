@@ -4,9 +4,9 @@
 
 * [About Technical Steering Committee](README.md)
 * [Committee members](about/committee-members.md)
-* [Technical Working Groups](about/working-groups.md)
+* [Technical Working Groups](about/working-groups/README.md)
+* [Security Council](about/security-council.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
-* [Security Council](about/security-working-group.md)
 
 ***
 
