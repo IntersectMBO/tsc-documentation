@@ -1,16 +1,14 @@
-# Security Working Group
+# Security Council
 
-Exec Summary:&#x20;
+{% file src="../.gitbook/assets/Security Policy (Public).pdf" %}
+This Council is established by and addresses issues raised under the Security Policy.
+{% endfile %}
 
-Based on: [Security Policy (Public)](https://docs.google.com/document/d/1lQPhyTOW2yV-DM22pXXQtwXM8UXW7fLSRRWjfECUpAw/edit?usp=drive\_link)
+#### What is the Security Council:
 
-What is the Security Working Group (SWG):
+The Security Council (SC) is a dedicated group responsible for ensuring the security, integrity, and reliability of the Cardano blockchain ecosystem, facilitated by Intersect. Comprising key stakeholders, the SC focuses on developing and enforcing security policies, managing incident responses, and mitigating risks within the ecosystem.
 
-The Security Working Group is a dedicated group responsible for ensuring the security, integrity, and reliability of the Cardano blockchain ecosystem, facilitated by Intersect. Comprising key stakeholders, the SWG focuses on developing and enforcing security policies, managing incident responses, and mitigating risks within the ecosystem.
-
-
-
-The SWG is responsible for:
+#### The Council is responsible for:
 
 1. Incident Response:\
    Develop and maintain a comprehensive incident response plan to effectively address and manage critical incident response and “alarm bell” management. This includes performing root cause analysis to prevent future occurrences, ensure rapid recovery by appointing a Security Manager.
@@ -19,7 +17,7 @@ The SWG is responsible for:
 3. Security Policies:\
    Develop, review, and enforce security policies and standards to ensure consistent protection across the ecosystem. These policies provide guidelines and procedures to maintain security integrity.
 4. Vulnerability Management:\
-   Conduct regular vulnerability assessments to identify and address weaknesses in the system. Manage remediation efforts to ensure timely / effective resolution of identified vulnerabilities through a process for assessment, budget, audit and record for audits.  SWG acts as representative, acts as Subject Matter Experts for these topics around budgets and discloses the findings as appropriate.
+   Conduct regular vulnerability assessments to identify and address weaknesses in the system. Manage remediation efforts to ensure timely / effective resolution of identified vulnerabilities through a process for assessment, budget, audit and record for audits.  Security Council acts as representative, acts as Subject Matter Experts for these topics around budgets and discloses the findings as appropriate.
 5. Security Awareness:\
    Educate stakeholders and community members on security best practices and emerging threats. Foster a security-aware culture to enhance the overall security posture of the ecosystem through educational outreach opportunities as appropriate.
 6. Security Assessment of Code:\
@@ -31,13 +29,13 @@ Guiding Principles:
 * Confidentiality: Ensure sensitive information is restricted to those who need to know.
 * Integrity: Maintain the accuracy and reliability of data and systems.
 
-#### Mission of the SWG:
+#### Mission of the Security Council:
 
 "To establish and maintain a robust security posture for the Cardano blockchain ecosystem by effectively managing security risks, responding to incidents, and fostering a security-aware community.”
 
 \
 Authority:\
-The SWG operates and reports to the Technical Steering Committee but acts autonomously for the betterment of Cardano. It is accountable for overseeing the security processes, managing incident responses, and ensuring compliance with security policies.
+The Council operates and reports to the Technical Steering Committee but acts autonomously for the betterment of Cardano. It is accountable for overseeing the security processes, managing incident responses, and ensuring compliance with security policies.
 
 \
 Because of the above (Mission + Authority), we will be focusing on:
@@ -61,8 +59,8 @@ In these Areas (Strategic Pillars), we aim for:
 
 Voting Procedure:
 
-1. In Person or Video Meeting Voting Procedures: All topics on which the SWG will take a vote will need a simple working group majority tallied during the meeting in which the SWG convenes, tally and action to be recorded by the Secretary.
-2. Offline Voting Procedures: All topics on which the SWG will take a vote will need a simple working group majority tallied based on the medium on which the SWG chooses. Current voting procedure utilizes Slack where one or multiple topics will be posted to also for working group comments and the ability to mark a vote based on emojis as dictated by the post instructions. A simple majority of the correct emoji is needed to continue proceedings.
+1. In Person or Video Meeting Voting Procedures: All topics on which the Council will take a vote will need a simple working group majority tallied during the meeting, tally and action to be recorded by the Secretary.
+2. Offline Voting Procedures: All topics on which the Council will take a vote will need a simple working group majority tallied with any tool the Council agrees to utilize. Current voting procedure utilizes Slack where one or multiple topics will be posted to also for working group comments and the ability to mark a vote based on emojis as dictated by the post instructions. A simple majority of the correct emoji is needed to continue proceedings.
 3. No Vote: In the event of a no vote or insufficient vote, topics or items will then be shelved or facilitated to revision based on the nature of the vote.
 4. A vote by a WG: should be considered binding if it receives a simple majority of positive votes from a quorum consisting of at least two thirds of the working group members being present and participating in the vote
 5. In the case of an emergency: this process may be circumvented in the best interest of resolution and then followed on by this process as appropriate.
@@ -84,7 +82,7 @@ Working Group Structure:
 
 Membership Criteria:
 
-* The SWG will be composed of members from the Intersect organization and other stakeholders within the Cardano ecosystem.
+* The SC will be composed of members from the Intersect organization and other stakeholders within the Cardano ecosystem.
 * Members will be selected based on their expertise in blockchain technology, cybersecurity, and incident response.
 
 Proposed Roles for SWG:
