@@ -27,4 +27,3 @@
   * [24 April 24](tsc-meeting-minutes/24-april-24.md)
   * [10 April 24](tsc-meeting-minutes/10-april-24.md)
   * [27 Mar 24](tsc-meeting-minutes/27-mar-24.md)
-* [Page 1](page-1.md)
