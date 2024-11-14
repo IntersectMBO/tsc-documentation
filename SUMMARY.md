@@ -7,6 +7,7 @@
 * [Technical Working Groups](about/working-groups/README.md)
 * [Security Council](about/security-council.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
+* [How to Participate in Shaping the Technical Roadmap](about/how-to-participate-in-shaping-the-technical-roadmap.md)
 
 ***
 
