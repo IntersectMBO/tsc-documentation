@@ -21,9 +21,9 @@ The CIR process is your pathway for submitting new project proposals. Our team w
 ### **Step 3: Submit Your Proposal**
 
 Ready to suggest a new project or initiative? Complete the submission form to propose your idea. Your submission will be triaged by the CIR Working Group and evaluated by the relevant committee, such as the Technical Steering Committee (TSC) or Product Committee (PC).\
-👉 **Complete the submission form here (available shortly)**\
+👉 **Complete the submission form** [**here**](https://docs.google.com/forms/d/e/1FAIpQLSdD6vCGq1oQ3eSa3tOKN1DB3MJaMxs96zXqKp8v1ghHw6tceQ/viewform?vc=0\&c=0\&w=1\&flr=0)\
 📲 Alternatively, scan this QR code to submit your proposal directly:\
-**(available shortly)**
+![](../.gitbook/assets/Untitled.png)
 
 Ensure your proposal clearly outlines your idea, its relevance to one or more Product goals, and any necessary technical details. Full instructions are included in the form to help guide you through the process.
 
