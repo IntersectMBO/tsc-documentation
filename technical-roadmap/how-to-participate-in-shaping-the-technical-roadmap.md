@@ -32,7 +32,7 @@ Ensure your proposal clearly outlines your idea, its relevance to one or more Pr
 ### **Step 4: Track Your Proposal’s Progress**
 
 Once your proposal is submitted and reviewed, it will be available for the community to follow. You can track its progress via the **Proposal Cards** page, where all reviewed proposals are listed as proposal cards.\
-👉 **View all the proposal cards here (available shortly)**
+👉 **View all the proposal cards** [**here**](potential-roadmap-projects.md)
 
 ***
 
