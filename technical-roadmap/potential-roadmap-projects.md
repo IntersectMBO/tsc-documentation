@@ -151,6 +151,8 @@ Note, these project cards are subject to revision and update by the project cham
 
 {% tabs %}
 {% tab title="Project Abstract" %}
+**Please note this project is pending review from the CIR working group.**
+
 **Description**: The decentralised oracle is a mechanism for publishing off–chain data such as price feeds so that it can be used by smart contracts. Operated by a network of data providers, the oracle can be used by any dapp, requiring only a small amount of work to integrate new data sources and use them in smart contracts.
 
 **Problem Statement**: Most dapps need data from the outside world in order to function. Existing oracle solutions require trust in some centralised entity. The decentralised oracle provides vital data in an open, transparent, trustless, reliable and price-efficient manner.
@@ -185,6 +187,8 @@ Note, these project cards are subject to revision and update by the project cham
 
 {% tabs %}
 {% tab title="Project Abstract" %}
+**Please note this project is pending review from the CIR working group.**
+
 **Description**: The Djed stablecoin has operated reliably on mainnet since its release in January ‘23, with its codebase establishing a good reputation (having multiple audits and zero incidents). This project will (1) publish the source-code of the Djed stablecoin and (2) add a feature to Djed to allow multiple operators to process stablecoin orders in a decentralized way
 
 **Problem Statement**: Stable coins are crucial for the evolution of blockchain development, as they facilitate client interactions using familiar currencies, but crucially without the risk of exchange drift. Cardano currently lacks an open source, decentralized algorithmic stablecoin, preventing it from realizing its full potential as a first class blockchain .
