@@ -23,7 +23,7 @@ The CIR process is your pathway for submitting new project proposals. Our team w
 Ready to suggest a new project or initiative? Complete the submission form to propose your idea. Your submission will be triaged by the CIR Working Group and evaluated by the relevant committee, such as the Technical Steering Committee (TSC) or Product Committee (PC).\
 👉 **Complete the submission form** [**here**](https://docs.google.com/forms/d/e/1FAIpQLSdD6vCGq1oQ3eSa3tOKN1DB3MJaMxs96zXqKp8v1ghHw6tceQ/viewform?vc=0\&c=0\&w=1\&flr=0)\
 📲 Alternatively, scan this QR code to submit your proposal directly:\
-![](../.gitbook/assets/Untitled.png)
+![](../.gitbook/assets/image.png)
 
 Ensure your proposal clearly outlines your idea, its relevance to one or more Product goals, and any necessary technical details. Full instructions are included in the form to help guide you through the process.
 
@@ -47,7 +47,7 @@ Help prioritize potential projects for inclusion in the technical roadmap. Compl
 
 📲 Alternatively, scan this QR code to submit your proposal directly:
 
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV\_vUcVGii7ah9YZwV7bpmxNFE6Ti5y72Mzwpekz13P5DytuDJRL\_TQZFFbkDbcLOqtP0hSem0HGUIZGN9ZcZyhQSJRzuqHh861aXzRXpYsKjvT8UhOv3\_LR969MK1yLg3S55PF9TYCjg=nw?key=cWzy7s7AlTpcO-cqVyV6uYk2)
+![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcdL9tK0KozNDR1wc3A2AuvXpwYQzr0vRl2VhgTKH3QryI-uS0co\_tybQN1s6XLWmpUMXg0IwnVu8VpYi\_tMux4lGABSNUl2wWOkuP6RgoO0N8gQHJU2qaDsTOgm4AlHEsLKAGDSA?key=\_bETO-5\_sbbUo0ZZodKvuvSe)
 
 ***
 
