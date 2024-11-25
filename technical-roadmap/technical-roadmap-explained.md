@@ -44,6 +44,10 @@ This is a **continuous** process, with prioritization opportunities throughout a
 
 The community is asked to participate in feedback and prioritization on the potential projects via the following [survey](https://forms.gle/t2tkE19MZDFXnDuE8) (available until 06/12/2024).
 
+{% hint style="info" %}
+Please note an error was corrected on the prioritization survey on 25th November - individuals can resubmit responses until the stated closure, only the last timestamped entry will be counted.
+{% endhint %}
+
 ***
 
 ### Technical Steering
