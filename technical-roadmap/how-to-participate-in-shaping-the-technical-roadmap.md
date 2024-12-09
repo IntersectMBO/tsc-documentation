@@ -43,11 +43,7 @@ Join the ongoing conversations around these projects and goals. We hold regular 
 
 Help prioritize potential projects for inclusion in the technical roadmap. Complete the prioritization survey here.
 
-👉 **Participate in the prioritization (**[**Survey**](https://forms.gle/t2tkE19MZDFXnDuE8)**)**
-
-📲 Alternatively, scan this QR code to submit your proposal directly:
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcdL9tK0KozNDR1wc3A2AuvXpwYQzr0vRl2VhgTKH3QryI-uS0co\_tybQN1s6XLWmpUMXg0IwnVu8VpYi\_tMux4lGABSNUl2wWOkuP6RgoO0N8gQHJU2qaDsTOgm4AlHEsLKAGDSA?key=\_bETO-5\_sbbUo0ZZodKvuvSe)
+👉 **Participate in the prioritization (**&#x54;emporarily closed for feedback, will open ahead of Q1 2025)
 
 ***
 
