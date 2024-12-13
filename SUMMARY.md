@@ -8,6 +8,7 @@
 * [Security Council](about/security-council.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 * [TSC Meeting Minutes](about/tsc-meeting-minutes/README.md)
+  * [TSC - Decisions Log](about/tsc-meeting-minutes/tsc-decisions-log.md)
   * [4th Dec 24](about/tsc-meeting-minutes/4th-dec-24.md)
   * [27th Nov 24](about/tsc-meeting-minutes/27th-nov-24.md)
   * [20th Nov 24](about/tsc-meeting-minutes/20th-nov-24.md)
