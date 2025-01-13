@@ -7,7 +7,9 @@
 * [Technical Working Groups](about/working-groups/README.md)
 * [Security Council](about/security-council.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
-* [TSC Meeting Minutes](about/tsc-meeting-minutes/README.md)
+* [2025 TSC Meeting Minutes](about/2025-tsc-meeting-minutes.md)
+* [8th Jan 25](about/8th-jan-25.md)
+* [2024 TSC Meeting Minutes](about/tsc-meeting-minutes/README.md)
   * [TSC - Decisions Log](about/tsc-meeting-minutes/tsc-decisions-log.md)
   * [4th Dec 24](about/tsc-meeting-minutes/4th-dec-24.md)
   * [27th Nov 24](about/tsc-meeting-minutes/27th-nov-24.md)
@@ -28,6 +30,7 @@
   * [24 April 24](about/tsc-meeting-minutes/24-april-24.md)
   * [10 April 24](about/tsc-meeting-minutes/10-april-24.md)
   * [27 Mar 24](about/tsc-meeting-minutes/27-mar-24.md)
+* [Page](about/page.md)
 
 ## Technical Roadmap
 
