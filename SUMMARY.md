@@ -39,3 +39,4 @@
 * [Technical Roadmap Explained](technical-roadmap/technical-roadmap-explained.md)
 * [Project Cards Explained](technical-roadmap/project-cards-explained.md)
 * [Potential Roadmap Projects](technical-roadmap/potential-roadmap-projects.md)
+* [Maintenance Items](technical-roadmap/maintenance-items.md)
