@@ -4,7 +4,7 @@ A project card is designed to hold relevant and useful information for the commu
 
 When a potential project is submitted for review and inclusion to the backlog we will ask that this information is provided, or an explanation as to why it cannot be.&#x20;
 
-On the following '[Potential Roadmap projects](potential-roadmap-projects.md)' page you will see one of these card for each potential technical roadmap project. Below is a explanation of what is requested to be included in each project card.
+On the following '[Potential Roadmap projects](../potential-roadmap-projects.md)' page you will see one of these card for each potential technical roadmap project. Below is a explanation of what is requested to be included in each project card.
 
 ***
 
@@ -47,29 +47,3 @@ Project Title - title of the potential roadmap project
 _Not Provided_ - Information has been requested but not yet provided by the project sponsor
 
 _TBC_ - Information has been provided but is currently being reviewed and/or confirmed by the CIR, TSC or other reviewing body
-
-{% hint style="info" %}
-Software Readiness Level - explained!
-
-Defining a robust and repeatable process will ensure the progression of solution development can be thoroughly validated before going into production. The software readiness levels (SRLs) provide a mechanism for this.
-
-_Research to proof of concept –_ demonstration of hardware/software concepts that may or may not be incorporated into the following development:
-
-* SRL 1: basic principles observed and reported
-* SRL 2: technology concept or application formulated
-* SRL 3: analytical and/or experimental critical function or characteristic proof of concept
-
-_Technology development –_ progression from demonstrating functionality to prototyping software built for validation up to a breaking point:
-
-* SRL 4: component or breadboard validation in the laboratory
-* SRL 5: component or breadboard validation in a relevant environment
-* SRL 6: system/subsystem model or prototype demonstration in a relevant environment
-
-_Technology delivery –_ software has been successfully operated in an operational environment of the same scale:
-
-* SRL 7: system prototype demonstration in the target environment
-* SRL 8: actual system completed and qualified through testing and demonstration&#x20;
-* SRL 9: actual system proven through successful deployment/operations.
-
-(These levels will be assigned by the reviewing group or committee)
-{% endhint %}
