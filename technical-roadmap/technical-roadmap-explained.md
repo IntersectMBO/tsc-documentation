@@ -44,11 +44,7 @@ Nobody can guarantee outcomes. Projects have risks, some known and some unknown.
 
 This is a **continuous** process, with prioritization opportunities throughout any given year. The review processes implemented by the CIR group will continue to review and add potential projects to the backlog throughout 2025 and beyond.
 
-The community is asked to participate in feedback and prioritization on the potential projects via the following survey (Temporarily closed for feedback, will open ahead of Q1 2025).
-
-{% hint style="info" %}
-Please note an error was corrected on the prioritization survey on 25th November - individuals can resubmit responses until the stated closure, only the last timestamped entry will be counted.
-{% endhint %}
+The community is asked to participate in feedback and prioritization on the potential projects. **Participate in the prioritization survey** [**here**](https://docs.google.com/forms/d/1aGwaVxHyI3vMX3UxQ2PKLxr1rVbprZ1K2735YcIAjH4)**.**
 
 ***
 
