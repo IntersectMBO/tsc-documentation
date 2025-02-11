@@ -2,9 +2,9 @@
 
 There are a large number of supportive, maintenance style items required in any given period to keep Cardano running. These have been labelled as maintenance items, although understanding some of the work items outlined do not strictly meet this common definition, it is the most convenient. An indicative breakdown of these can be found below.
 
-In order to achieve scales of economy these maintenance items will likely be tendered and procured in several groups with considerations for education, wider community participation and share. Note this may not necessarily be bound by the grouping core, support and operational below.
+The following list of typical maintenance items will be published for tender. Suitably qualified organisations and individuals will be able to submit tender responses for groups, subsets or line items individually. This is to allow those who do not possess broad sets of capabilities to participate.  &#x20;
 
-Likely in-year deliverables of maintenance items are quarterly reporting, to be known as ‘maintenance reporting’ detailing time and effort of these activities, highlighting key developments, effort and progress.&#x20;
+Likely in-year deliverables of maintenance items are quarterly reporting, to be known as ‘maintenance reporting’ detailing time and effort of these activities, highlighting key developments, effort and progress. Like any other contract, maintenance style contracts will be published for transparency.
 
 There are significant risks in not having a maintenance items and budget for such activity. Without many of these items realistic project or development goals would likely stall. These services are used by projects to test and integrate amongst many other requirements and benefits, many of these elements help to ensure a maintained secure and stable Cardano product.
 
