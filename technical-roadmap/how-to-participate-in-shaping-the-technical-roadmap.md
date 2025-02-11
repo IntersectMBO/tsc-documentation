@@ -11,16 +11,20 @@ Our product goals are the foundation for shaping future projects. We recommend s
 
 ***
 
-### **Step 2: Learn About the Core Infrastructure Roadmap (CIR) Process**
+### **Step 2: Proposal Review Body (PRB)**
 
-The CIR process is your pathway for submitting new project proposals. Our team will review and triage all submissions, passing them to the relevant committees for evaluation.\
-👉 **Explore the full CIR process** [**here**](https://committees.docs.intersectmbo.org/intersect-product-committee/working-group/core-infrastructure-roadmap-working-group/process-flow)
+{% hint style="info" %}
+In 2024 the [CIR](https://committees.docs.intersectmbo.org/intersect-product-committee/working-group/core-infrastructure-roadmap-working-group) group worked to create a backlog of potential projects, many of which can be seen on the subsequent [Potential Roadmap Projects](https://committees.docs.intersectmbo.org/intersect-technical-steering-committee/technical-roadmap/potential-roadmap-projects) list. In 2025, understanding a need to further industrialise this process, the Product Committee, TSC and Open Source Committee are now jointly tasked with reviewing project submission, readiness and allocation between the committees.&#x20;
+{% endhint %}
+
+At any given time two elected committee members, from each of the Product Committee, Technical Steering Committee and Open Source Committee will contribute to the Proposal Review Body.\
+👉 I**nformation on the new PRB group and its processes will be available soon**
 
 ***
 
 ### **Step 3: Submit Your Proposal**
 
-Ready to suggest a new project or initiative? Complete the submission form to propose your idea. Your submission will be triaged by the CIR Working Group and evaluated by the relevant committee, such as the Technical Steering Committee (TSC) or Product Committee (PC).\
+Ready to suggest a new project or initiative? Complete the submission form to propose your idea. Your submission will be triaged by the Proposal Review Body and evaluated by the relevant committee, such as the Technical Steering Committee (TSC), Product Committee (PC) or Open Source Committee (OSC)\
 👉 **Complete the submission form** [**here**](https://docs.google.com/forms/d/e/1FAIpQLSdD6vCGq1oQ3eSa3tOKN1DB3MJaMxs96zXqKp8v1ghHw6tceQ/viewform?vc=0\&c=0\&w=1\&flr=0)\
 📲 Alternatively, scan this QR code to submit your proposal directly:\
 
