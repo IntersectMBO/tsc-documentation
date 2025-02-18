@@ -8,6 +8,7 @@
 * [Security Council](about/security-council.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 * [2025 TSC Meeting Minutes](about/2025-tsc-meeting-minutes/README.md)
+  * [2025 TSC Decision Log](about/2025-tsc-meeting-minutes/2025-tsc-decision-log.md)
   * [12th Feb 25](about/2025-tsc-meeting-minutes/12th-feb-25.md)
   * [5th Feb 25](about/2025-tsc-meeting-minutes/5th-feb-25.md)
   * [22nd Jan 25](about/2025-tsc-meeting-minutes/22nd-jan-25.md)
