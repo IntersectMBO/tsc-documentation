@@ -55,6 +55,10 @@ Help prioritize potential projects for inclusion in the technical roadmap. Compl
 
 <figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeit3f9jwV9P63-WxLnX7etHtRzng3-jhcbKiWspRE9qYpNyyg9egE2f8AZH3MSHJIG8ym5YqCzkHsoRM3ai_-53G5a2-cpgOuS7y6GBAAHBC7Bo5lHV2Uwc4Bn2zc98JTRNTJJsw=nw?key=cWzy7s7AlTpcO-cqVyV6uYk2" alt="" width="188"><figcaption><p>Project Prioritization QR code</p></figcaption></figure>
 
+Following discussions the committees will recommend a suggestion, incorporating the feedback and discussion provided. This recommendation then goes on-chain for final discussion and ratification with DReps and other applicable governance actors as part of any roadmap or budget. Ultimately it is these on-chain governance actors which have the final say.&#x20;
+
+Once these governance actors have ratified a way forward, Interest delivery assurance teams will support relevant communities, SMEs and committees in the transparent management of the associated deliverables.
+
 ***
 
 ### **Additional Ways to Participate**
