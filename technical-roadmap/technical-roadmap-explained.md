@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Technical Roadmap Explained
 
 ### Journey so far
