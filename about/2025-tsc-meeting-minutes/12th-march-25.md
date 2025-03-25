@@ -2,7 +2,25 @@
 
 The TSC did not achieve quorum and therefore no official decisions were taken. Instead a general discussion took place which is summarised below:&#x20;
 
+## Attendees:
 
+| Name                     | Attendance | Role                              | Voting Seat |
+| ------------------------ | ---------- | --------------------------------- | ----------- |
+| Kevin Hammond            | No         | TSC Chair (IOE)                   | Yes         |
+| Adam Dean                | No         | TSC Vice-Chair                    | Yes         |
+| Markus Gufler            | Yes        | TSC Member (Cardano Foundation)   | Yes         |
+| Johnny Kelly             | Yes        | TSC Member                        | Yes         |
+| Ben Hart                 | Yes        | TSC Member (MLabs)                | Yes         |
+| Neil Davies              | Yes        | TSC Member (PN Solutions)         | Yes         |
+| Nicholas Clark           | Yes        | TSC Member (Tweag Modus)          | Yes         |
+| Duncan Soutar            | No         | TSC Secretary                     | No          |
+| Matt Davis               | No         | Intersect - Tech Ops Lead         | No          |
+| Christian Taylor         | No         | Intersect - Opensource Head       | No          |
+| Terence ‘Tex’ McCutcheon | Yes        | OSC Secretary                     | No          |
+| Abbie Yeates             | Yes        | Intersect - Delivery Assurance    | No          |
+| Ricky Rand               | Yes        | IOE General Manager - Observer    | No          |
+| Duncan Coutts            | No         | Welltyped - Observer              | No          |
+| Lawrence Clarke          | No         | Intersect - Head of Core Services | No          |
 
 **Minutes**
 
