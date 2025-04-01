@@ -1,4 +1,4 @@
-# About Technical Steering Committee
+# Technical Steering Committee (TSC)
 
 ## What is the Technical Steering Committee?
 
@@ -26,7 +26,7 @@ The membership of the TSC will need to consider how it handles sensitive or conf
 
 ## Agenda&#x20;
 
-In the current interim phase, under the stewardship of the [delivery assurance team](https://app.gitbook.com/s/o50OuflyxfUMOt8hHPn2/intersect-overview/working-on-cardano/managing-delivery-partners) the TSC holds a rolling agenda on the following;
+In the current interim phase, under the stewardship of the [delivery assurance team](https://app.gitbook.com/s/o50OuflyxfUMOt8hHPn2/intersect-operational-services/intersect-operational-services-overview/managing-delivery-partners) the TSC holds a rolling agenda on the following;
 
 * Welcome to the Committee/Introductions as required
 * Delivery Update (upcoming and significant delivery milestones)

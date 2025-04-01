@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [About Technical Steering Committee](README.md)
+* [Technical Steering Committee (TSC)](README.md)
 * [Committee members](about/committee-members.md)
 * [Technical Working Groups](about/working-groups/README.md)
 * [Security Council](about/security-council.md)
