@@ -4,23 +4,7 @@ The TSC did not achieve quorum and therefore no official decisions were taken. I
 
 ## Attendees:
 
-| Name                     | Attendance | Role                              | Voting Seat |
-| ------------------------ | ---------- | --------------------------------- | ----------- |
-| Kevin Hammond            | No         | TSC Chair (IOE)                   | Yes         |
-| Adam Dean                | No         | TSC Vice-Chair                    | Yes         |
-| Markus Gufler            | Yes        | TSC Member (Cardano Foundation)   | Yes         |
-| Johnny Kelly             | Yes        | TSC Member                        | Yes         |
-| Ben Hart                 | Yes        | TSC Member (MLabs)                | Yes         |
-| Neil Davies              | Yes        | TSC Member (PN Solutions)         | Yes         |
-| Nicholas Clark           | Yes        | TSC Member (Tweag Modus)          | Yes         |
-| Duncan Soutar            | No         | TSC Secretary                     | No          |
-| Matt Davis               | No         | Intersect - Tech Ops Lead         | No          |
-| Christian Taylor         | No         | Intersect - Opensource Head       | No          |
-| Terence ‘Tex’ McCutcheon | Yes        | OSC Secretary                     | No          |
-| Abbie Yeates             | Yes        | Intersect - Delivery Assurance    | No          |
-| Ricky Rand               | Yes        | IOE General Manager - Observer    | No          |
-| Duncan Coutts            | No         | Welltyped - Observer              | No          |
-| Lawrence Clarke          | No         | Intersect - Head of Core Services | No          |
+<table data-header-hidden><thead><tr><th></th><th width="187"></th><th></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td><td>Voting Seat</td></tr><tr><td>Kevin Hammond</td><td>No</td><td>TSC Chair (IOE)</td><td>Yes</td></tr><tr><td>Adam Dean</td><td>No</td><td>TSC Vice-Chair</td><td>Yes</td></tr><tr><td>Markus Guffler</td><td>Yes</td><td>TSC Member (Cardano Foundation)</td><td>Yes</td></tr><tr><td>Johnny Kelly</td><td>Yes</td><td>TSC Member</td><td>Yes</td></tr><tr><td>Ben Hart</td><td>Yes</td><td>TSC Member (MLabs)</td><td>Yes</td></tr><tr><td>Neil Davies</td><td>Yes</td><td>TSC Member (PN Solutions)</td><td>Yes</td></tr><tr><td>Nicholas Clark</td><td>Yes</td><td>TSC Member (Tweag Modus)</td><td>Yes</td></tr><tr><td>Duncan Soutar</td><td>No</td><td>TSC Secretary</td><td>No</td></tr><tr><td>Matt Davis</td><td>No</td><td>Intersect - Tech Ops Lead</td><td>No</td></tr><tr><td>Christian Taylor</td><td>No</td><td>Intersect - Opensource Head</td><td>No</td></tr><tr><td>Terence ‘Tex’ McCutcheon</td><td>Yes</td><td>OSC Secretary</td><td>No</td></tr><tr><td>Abbie Yeates</td><td>Yes</td><td>Intersect - Delivery Assurance</td><td>No</td></tr><tr><td>Ricky Rand</td><td>Yes</td><td>IOE General Manager - Observer</td><td>No</td></tr><tr><td>Duncan Coutts</td><td>No</td><td>Welltyped - Observer</td><td>No</td></tr><tr><td>Lawrence Clarke</td><td>No</td><td>Intersect - Head of Core Services</td><td>No</td></tr></tbody></table>
 
 **Minutes**
 
