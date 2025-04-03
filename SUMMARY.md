@@ -9,6 +9,7 @@
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 * [2025 TSC Meeting Minutes](about/2025-tsc-meeting-minutes/README.md)
   * [2025 TSC Decision Log](about/2025-tsc-meeting-minutes/2025-tsc-decision-log.md)
+  * [2nd April 25](about/2025-tsc-meeting-minutes/2nd-april-25.md)
   * [25th Mar 25](about/2025-tsc-meeting-minutes/25th-mar-25.md)
   * [19th Mar 25](about/2025-tsc-meeting-minutes/19th-mar-25.md)
   * [12th March 25](about/2025-tsc-meeting-minutes/12th-march-25.md)
