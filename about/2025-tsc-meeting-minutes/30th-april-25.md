@@ -2,7 +2,7 @@
 
 **Attendees:**
 
-
+<table><thead><tr><th width="108">First name</th><th width="142">Last name</th><th width="381">Role</th><th>Voting Member</th></tr></thead><tbody><tr><td>Kevin</td><td>Hammond</td><td>TSC Chair (IOE)</td><td>Y</td></tr><tr><td>Neil</td><td>Davies</td><td>TSC Member (PN Solutions)</td><td>Y</td></tr><tr><td>Matt</td><td>Davis</td><td>Intersect - Tech Ops Lead</td><td></td></tr><tr><td>Markus</td><td>Gufler</td><td>TSC Member (Cardano Foundation)</td><td>Y</td></tr><tr><td>Benjamin</td><td>Hart</td><td>TSC Member (MLabs)</td><td>Y</td></tr><tr><td>Jonathan</td><td>Kelly</td><td>TSC Member</td><td>Y</td></tr><tr><td>Ricky</td><td>Rand IOHK</td><td>IOE General Manager - Observer</td><td></td></tr><tr><td>Duncan</td><td>Soutar</td><td>TSC Secretary</td><td></td></tr><tr><td>Christian</td><td>Taylor</td><td>Intersect - Opensource Head</td><td></td></tr><tr><td>Adam</td><td>Rusch</td><td>Intersect Board</td><td></td></tr><tr><td>Kavinda</td><td>Kariyapperuma</td><td>Intersect Board</td><td></td></tr><tr><td>Jack</td><td>Briggs</td><td>Intersect Exec</td><td></td></tr></tbody></table>
 
 **Minutes:**
 
