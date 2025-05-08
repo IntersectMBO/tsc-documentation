@@ -1,5 +1,9 @@
 # 23rd April 25
 
+**Recording:**&#x20;
+
+[**https://www.youtube.com/watch?v=Tvc9TyARPY0**](https://www.youtube.com/watch?v=Tvc9TyARPY0)
+
 **Attendees:**&#x20;
 
 
