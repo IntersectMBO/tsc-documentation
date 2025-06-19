@@ -1,6 +1,6 @@
 # 18th June 25
 
-**Meeting Recording:**
+**Meeting Recording:** [**https://www.youtube.com/watch?v=LR-VUJz2NBg**](https://www.youtube.com/watch?v=LR-VUJz2NBg)
 
 
 
