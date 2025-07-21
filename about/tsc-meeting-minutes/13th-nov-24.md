@@ -46,7 +46,7 @@ Attendees:   [Duncan Soutar](mailto:duncan.soutar@intersectmbo.org)  [Duncan Cou
    2. Vote by committee on approval to publish (soft launch) & delegate management to Functional Team
 4.  Budget creation update - Duncan
 
-    1. Initial presentation to ISC completed on Tuesday (yesterday) and docs shred with ISC: [TSC Budget Presentation v2](https://docs.google.com/presentation/d/1M1JMkdc43Mp9bRmBqMoWF2ymsITgzIctkEWlpEd3\_Fw/edit#slide=id.p)\
+    1. Initial presentation to ISC completed on Tuesday (yesterday) and docs shred with ISC: [TSC Budget Presentation v2](https://docs.google.com/presentation/d/1M1JMkdc43Mp9bRmBqMoWF2ymsITgzIctkEWlpEd3_Fw/edit#slide=id.p)\
 
     2. First session with community to be held on Tuesday (19th Nov)
     3. Review of questionnaire to enable community input to TSC budget & roadmap: [https://docs.google.com/forms/d/1aGwaVxHyI3vMX3UxQ2PKLxr1rVbprZ1K2735YcIAjH4/edit](https://docs.google.com/forms/d/1aGwaVxHyI3vMX3UxQ2PKLxr1rVbprZ1K2735YcIAjH4/edit)
@@ -59,7 +59,7 @@ Attendees:   [Duncan Soutar](mailto:duncan.soutar@intersectmbo.org)  [Duncan Cou
        1. In relation to cardano-wallet , this will be maintained and supported to ensure it supports the latest ledger/ node updates etc. This can be significant effort at times depending on the changes introduced.
        2. As for future features we do plan on enhancing the wallet functionality but roadmap is not agreed.
     2. DB Sync: “most of the work in DBSync is maintenance, upstream integration and tech debt. However, we may need to integrate things like UTxO-HD, Leios (not sure if this will emerge in 2025), which are far from trivial/usual work” - remove from roadmap and add to maintenance
-    3. Decentralized Oracle & : CIR session to be held tomorrow (Thursday) proposals populated here: [DRep Presentation: CIR Item Proposal Briefs](https://docs.google.com/presentation/d/1ldiTx2zGVqvYHyOq3wcMIwteLejZhDke2nKAg7fxj8g/edit#slide=id.g31388c93ac0\_25\_0)
+    3. Decentralized Oracle & : CIR session to be held tomorrow (Thursday) proposals populated here: [DRep Presentation: CIR Item Proposal Briefs](https://docs.google.com/presentation/d/1ldiTx2zGVqvYHyOq3wcMIwteLejZhDke2nKAg7fxj8g/edit#slide=id.g31388c93ac0_25_0)
 
 
 6.  Future of Core Infrastructure Roadmap Group - Ben

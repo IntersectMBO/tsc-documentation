@@ -1,4 +1,4 @@
-# 19th March
+# 19th Mar 25
 
 The TSC held a session for Voting Members Only.&#x20;
 

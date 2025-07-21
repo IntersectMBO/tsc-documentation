@@ -22,7 +22,7 @@
 2.  **Supplier Tendering**
 
     1. Session to be set up to define the requirements of a core developer
-    2. Decisions to be made on approach for [maintenance items list](https://docs.google.com/spreadsheets/d/1m0NH3b8hq3UxUxxzIMagYiHUeSIIdDGZC\_BtIEQwXQY/edit?gid=2074588930#gid=2074588930)
+    2. Decisions to be made on approach for [maintenance items list](https://docs.google.com/spreadsheets/d/1m0NH3b8hq3UxUxxzIMagYiHUeSIIdDGZC_BtIEQwXQY/edit?gid=2074588930#gid=2074588930)
 
 
 3.  **Hard Fork Working Group**
