@@ -28,6 +28,7 @@
   * [2025 TSC Decision Log](about/2025-tsc-meeting-minutes/2025-tsc-decision-log.md)
   * [Meeting Minutes July 23, 2025](meeting-minutes/2025-tsc-meeting-minutes/meeting-minutes-july-23-2025.md)
   * [Meeting Minutes July 30, 2025](meeting-minutes/2025-tsc-meeting-minutes/meeting-minutes-july-30-2025.md)
+  * [Meeting Minutes August 06, 2025](meeting-minutes/2025-tsc-meeting-minutes/meeting-minutes-august-06-2025.md)
   * [18th June 25](about/2025-tsc-meeting-minutes/18th-june-25.md)
   * [11th June 25](about/2025-tsc-meeting-minutes/11th-june-25.md)
   * [6th June 25](about/2025-tsc-meeting-minutes/6th-june-25.md)
