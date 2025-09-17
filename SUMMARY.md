@@ -33,6 +33,8 @@
   * [Meeting Minutes August 20, 2025](meeting-minutes/2025-tsc-meeting-minutes/meeting-minutes-august-20-2025.md)
   * [Meeting Minutes August 27, 2025](meeting-minutes/2025-tsc-meeting-minutes/meeting-minutes-august-27-2025.md)
   * [Meeting Minutes September 3, 2025](meeting-minutes/2025-tsc-meeting-minutes/meeting-minutes-september-3-2025.md)
+  * [Meeting Minutes September 10, 2025](meeting-minutes/2025-tsc-meeting-minutes/meeting-minutes-september-10-2025.md)
+  * [Meeting Minutes September 17, 2025](meeting-minutes/2025-tsc-meeting-minutes/meeting-minutes-september-17-2025.md)
   * [18th June 25](about/2025-tsc-meeting-minutes/18th-june-25.md)
   * [11th June 25](about/2025-tsc-meeting-minutes/11th-june-25.md)
   * [6th June 25](about/2025-tsc-meeting-minutes/6th-june-25.md)
