@@ -4,38 +4,30 @@
 The Technical Steering Committee is currently in an interim phase and currently does not yet have member representation.&#x20;
 {% endhint %}
 
-## Committee Composition
+## Committee Composition (10 Members)
 
 1 Chair
 
-9 Seats
+1 Vice-Chair
 
-1 Secretary
+9 Seats (Vice-Chair is counted as a seat)
 
-### Seated Members
+2 Secretary (Secretary is not a Committee Member)
 
-* Chair: TBC
-* Interim Secretary: Duncan Soutar (Intersect Delivery Assurance Team)
-* Communications: TBC
-
-Other roles are expected to be defined by the first community members of the TSC.&#x20;
-
-
-
-| Role             | Name            | Term Rotations  |
-| ---------------- | --------------- | --------------- |
-| Chair (Interim)  | Kevin Hammond   | October '25     |
-| Secretary        | Duncan Soutar   | N/A - Secretary |
-| Non- Voting Seat | Duncan Coutts   | April '25       |
-| Voting Seat      | Adam Dean       | October '25     |
-| Voting Seat      | Neil Davies     | April '25       |
-| Voting Seat      | Nicholas Clarke | April '25       |
-| Voting Seat      | Markus Gufler   | October '25     |
-| Voting Seat      | Ben Hart        | October '25     |
-| Voting Seat      | Johnny Kelly    | October '25     |
-| Voting Seat      | Empty Seat      | April '25       |
-| Voting Seat      | Empty Seat      | April '25       |
-| Voting Seat      | Empty Seat      | April '25       |
+| Role        | Name                     | Term Rotations  |
+| ----------- | ------------------------ | --------------- |
+| Chair       | Kevin Hammond            | October '25     |
+| Vice-Chair  | Adam Dean                | October '25     |
+| Secretary   | Terence 'Tex' McCutcheon | N/A - Secretary |
+| Secretary   | Lorenzo Bruno            | N/A - Secretary |
+| Voting Seat | Ben Hart                 | October '25     |
+| Voting Seat | Johnny Kelly             | October '25     |
+| Voting Seat | Markus Gufler            | October '25     |
+| Voting Seat | Alexander Moser          | April '26       |
+| Voting Seat | Duncan Coutts            | April '26       |
+| Voting Seat | Neil Davies              | April '26       |
+| Voting Seat | Nicolas Biri             | April '26       |
+| Voting Seat | Sebastian Nagel          | April '26       |
 
 ### Voting Seat Criteria
 
