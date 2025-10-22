@@ -32,19 +32,19 @@ Community/Other Attendees
 
 ## Intros
 
-Adam: OSC, TSC, CIP Editor, DripDropz LLC\
-Alex: TBD\
-Ben: TBD\
-Duncan: TBD\
-Johnny: Non-Custodial Co-Management SysOps Engineer (Tech Janitor) for 3 Mainnet\
+**Adam:** OSC, TSC, CIP Editor, DripDropz LLC\
+**Alex:** TBD\
+**Ben:** TBD\
+**Duncan:** TBD\
+**Johnny:** Non-Custodial Co-Management SysOps Engineer (Tech Janitor) for 3 Mainnet\
 Cardano SPO Clients. Keystone Ambassador. Voting Seat Member on Technical Steering\
 Committee and Open Source Committee.\
-Kevin:  TBD\
-Markus: TBD\
-Neil: TSC, Network Params, PNSol Ltd\
-Nicolas: TBD\
-Sebastian: TBD\
-Tex: Terence 'Tex' McCutcheon: Open Source Program Manager (Intersect), GMC/MCC/OSC\
+**Kevin:**  TBD\
+**Markus:** TBD\
+**Neil:** TSC, Network Params, PNSol Ltd\
+**Nicolas:** TBD\
+**Sebastian:** TBD\
+**Tex:** Open Source Program Manager (Intersect), GMC/MCC/OSC\
 Secretary, Committee Liaison
 
 ## Agenda 10.08.25
@@ -54,11 +54,11 @@ Secretary, Committee Liaison
 
 ## Decisions/Actions
 
-Decisions:
+**Decisions:**
 
 * No decisions made as no chair was present. &#x20;
 
-Actions:
+**Actions:**
 
 * **CIP Write-up Clarity:** Sebastian to clarify the CIP's current write-up regarding whether new transactions are allowed in a Ranking Block (RB) when it contains an Endorsement Block (EB) certificate.
 * **CIP Analysis & Quantification:** Neil and the R\&D Team (including Sebastian and Vashy) are to perform further analysis to quantify the frequency and magnitude of the Linear Leios overhead cost vs. benefit. This includes looking at historical data to estimate how often Leios would have provided improvement.
