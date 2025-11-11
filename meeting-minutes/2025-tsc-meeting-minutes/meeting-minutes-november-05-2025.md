@@ -32,20 +32,20 @@
 
 ## Intros
 
-Adam: OSC, TSC, CIP Editor, DripDropz LLC\
-Alex: Head of Infrastructure, Cardano Foundation, TSC member, Parameter Committee\
+**Adam:** OSC, TSC, CIP Editor, DripDropz LLC\
+**Alex:** Head of Infrastructure, Cardano Foundation, TSC member, Parameter Committee\
 co-chair, CF Drep committee voting member,\
-Ben: TBD\
-Duncan: TBD\
-Johnny: Non-Custodial Co-Management SysOps Engineer (Tech Janitor) for 3 Mainnet\
+**Ben:** TBD\
+**Duncan:** TBD\
+**Johnny:** Non-Custodial Co-Management SysOps Engineer (Tech Janitor) for 3 Mainnet\
 Cardano SPO Clients. Keystone Ambassador. Voting Seat Member on Technical Steering\
 Committee and Open Source Committee.\
-Kevin:  TSC chair, Hylomorph Solutions Ltd\
-Markus: TSC voting member, CF employee, SPO\
-Neil: TSC, Network Params, PNSol Ltd\
-Nicolas: TSC member, IOG\
-Sebastian: Software Engineer/Architect, nCoding GmbH, IOE, TSC member\
-Tex: OS Program Manager (Intersect), GMC/MCC/OSC Secretary, Committee Liaison
+**Kevin:**  TSC chair, Hylomorph Solutions Ltd\
+**Markus:** TSC voting member, CF employee, SPO\
+**Neil:** TSC, Network Params, PNSol Ltd\
+**Nicolas:** TSC member, IOG\
+**Sebastian:** Software Engineer/Architect, nCoding GmbH, IOE, TSC member\
+**Tex:** OS Program Manager (Intersect), GMC/MCC/OSC Secretary, Committee Liaison
 
 ## Agenda 11.05.25
 
