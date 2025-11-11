@@ -16,29 +16,19 @@
 | Jonathan Kelly           | No         | Member/Seat | Y                 | October 2025 |
 | Benjamin Hart            | Yes        | Member/Seat | Y                 | October 2025 |
 
-\
-
-
-Community/Other Attendees
+**Community/Other Attendees**
 
 * Christian Taylor
 * Seungheon Oh
 * Tevo Kask
 
-\
 
 
-Recording: [Technical Steering Committee - 2025/11/05 - Recording](https://drive.google.com/file/d/1224WXTO_GaG2nmBDuJgnHJYYKrJk1DBq/view?usp=sharing)
+**Recording:** [Technical Steering Committee - 2025/11/05 - Recording](https://drive.google.com/file/d/1224WXTO_GaG2nmBDuJgnHJYYKrJk1DBq/view?usp=sharing)
 
-\
+**Transcript:** [Technical Steering Committee - 2025/11/05 08:26 CST - Transcript](https://docs.google.com/document/d/1NYSKTZ2Hs-IA0yIxpzMlQ_yKZptipO3isrN9srzja2g/edit?usp=sharing)
 
-
-Transcript: [Technical Steering Committee - 2025/11/05 08:26 CST - Transcript](https://docs.google.com/document/d/1NYSKTZ2Hs-IA0yIxpzMlQ_yKZptipO3isrN9srzja2g/edit?usp=sharing)
-
-\
-
-
-Chat Transcript: [Technical Steering Committee - 2025/11/05 - Chat Transcript](https://drive.google.com/file/d/11ji9rNYl8KB1F8ybgx9JtuMKriu8lH1t/view?usp=sharing)
+**Chat Transcript:** [Technical Steering Committee - 2025/11/05 - Chat Transcript](https://drive.google.com/file/d/11ji9rNYl8KB1F8ybgx9JtuMKriu8lH1t/view?usp=sharing)
 
 ## Intros
 
@@ -56,7 +46,6 @@ Neil: TSC, Network Params, PNSol Ltd\
 Nicolas: TSC member, IOG\
 Sebastian: Software Engineer/Architect, nCoding GmbH, IOE, TSC member\
 Tex: OS Program Manager (Intersect), GMC/MCC/OSC Secretary, Committee Liaison
------------------------------------------------------------------------------
 
 ## Agenda 11.05.25
 
@@ -68,8 +57,7 @@ Tex: OS Program Manager (Intersect), GMC/MCC/OSC Secretary, Committee Liaison
 * Plutus Parameter Update - Alex
 * Feedback on Cardano 2030 Strategic Plan - Kevin/Adam
   * [https://product.cardano.intersectmbo.org/vision/strategy-2030/#4-enabling-technology](https://product.cardano.intersectmbo.org/vision/strategy-2030/#4-enabling-technology)&#x20;
-* Feedback on Intersect Mission and Purpose to ISC - Kevin
-  * [https://docs.google.com/document/d/1nVXPE4e2eW8fyG629dTnVWBpuWgP1GwZgTHT0hgPF6w/edit?tab=t.0#heading=h.gxchoffydrto](https://docs.google.com/document/d/1nVXPE4e2eW8fyG629dTnVWBpuWgP1GwZgTHT0hgPF6w/edit?tab=t.0#heading=h.gxchoffydrto)&#x20;
+* Feedback on Intersect Mission/Purpose
 * Budget Committee Blog - Kevin
   * [https://www.intersectmbo.org/news/building-a-better-budget-process-for-2026-proposing-a-multi-step-framework](https://www.intersectmbo.org/news/building-a-better-budget-process-for-2026-proposing-a-multi-step-framework)&#x20;
 * Marcin’s Questions about maintaining IO-Sim etc.  - Christian
@@ -81,23 +69,22 @@ Tex: OS Program Manager (Intersect), GMC/MCC/OSC Secretary, Committee Liaison
 **Decisions**
 
 * The motion to send condolences to Alex Egen's family, colleagues, and the community was approved. A formal vote was deemed unnecessary.
-* The UPLC conference will aim to be repeated on an annual basis.
 * The Hard Fork Working Group (HFWG) will be set up immediately to get started on the Q1 Hard Fork preparation.
-* The group agreed to use a Doodle poll to determine the best time/cadence for the new HFWG meetings, with a preference for European afternoon times.
+* The group agreed to use a Doodle poll(or similar) to determine the best time/cadence for the new HFWG meetings, with a preference for European afternoon times.
 * The current meeting time may move after the newly elected members join (to be decided in a couple of weeks).
 * The team will pursue the proposed Plutus parameter update to increase memory unit limits, following positive feedback on the preview.
 
 **Actions**
 
-* Kevin and Terence (or whoever sets the meeting) will run a new meeting time past the newly elected members.
-* Neil will find out how people can express their sympathies to Alex Egen's family and what the appropriate form of wake might be.
-* Kevin will raise the question with Zeang about opening up the annual UPLC conference to a wider audience.
-* Terence will create and distribute a Doodle poll to agree on a time for the Hard Fork Working Group.
-* Kevin will collect and summarize the TSC/committee's feedback on the Cardano 2030 Strategic Plan for Sam to present at the Cardano Summit.
-* Kevin will check and pass on the correct document describing Intersect's mission and purpose (correcting the duplicate link).
+* **Kevin** and **Terence** will run a new meeting time past the newly elected members.
+* **Neil** will find out how people can express their sympathies to Alex Egen's family and what the appropriate form of wake might be.
+* **Kevin** will raise the question with Zeang about opening up the annual UPLC conference to a wider audience.
+* **Terence** will create and distribute a Doodle poll to agree on a time for the Hard Fork Working Group.
+* **Kevin** will collect and summarize the TSC/committee's feedback on the Cardano 2030 Strategic Plan for Sam to present at the Cardano Summit.
+* **Kevin** will check and pass on the correct document describing Intersect's mission and purpose (correcting the duplicate link).
 * The group members will review the budget committee blog and provide any appropriate feedback.
-* Christian will go back and ask Martin (Networking Team) to clarify the originating purpose for requesting the transfer of the repositories to Intersect ownership.
-* Kevin and Terence will review the onboarding deck next week at the Cardano Summit.
+* **Christian** will go back and ask Martin (Networking Team) to clarify the originating purpose for requesting the transfer of the repositories to Intersect ownership.
+* **Kevin** and **Terence** will review the onboarding deck next week at the Cardano Summit.
 * All current members are encouraged to vote in the ongoing committee elections.
 
 | Topic                                     | Discussion                                                                                                                                                                                                                                                                                                                                                                  | Notes                                                                                                                                                                                                                                                                                                                                            |

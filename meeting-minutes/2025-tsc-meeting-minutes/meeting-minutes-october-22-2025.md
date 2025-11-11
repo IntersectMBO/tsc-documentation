@@ -16,47 +16,36 @@
 | Neil Davies              | Yes        | Member/Seat | Y                 | April 2026   |
 | Alexander Moser          | Yes        | Member/Seat | Y                 | April 2026   |
 
-\
-
-
-Community/Other Attendees
+**Community/Other Attendees**
 
 * Arnaud Bailly
 * Christian Taylor
 * Jessica Gilbert
 
-\
 
 
-Recording: [Technical Steering Committee - 2025/10/22 - Recording](https://drive.google.com/file/d/1mXmXIdevKJpB7vMQX6FE_afpjFwVXTUU/view?usp=sharing)
+**Recording:** [Technical Steering Committee - 2025/10/22 - Recording](https://drive.google.com/file/d/1mXmXIdevKJpB7vMQX6FE_afpjFwVXTUU/view?usp=sharing)
 
-\
+**Transcript:** [Technical Steering Committee - 2025/10/22 08:22 CDT - Transcript](https://docs.google.com/document/d/1pL3KDVhoPWekp-YPopzcOLrhdDjPNmvZnYSvMl524ok/edit?usp=sharing)
 
-
-Transcript: [Technical Steering Committee - 2025/10/22 08:22 CDT - Transcript](https://docs.google.com/document/d/1pL3KDVhoPWekp-YPopzcOLrhdDjPNmvZnYSvMl524ok/edit?usp=sharing)
-
-\
-
-
-Chat Transcript: [Technical Steering Committee - 2025/10/22 - Chat Transcript](https://drive.google.com/file/d/1prHKG4GhzsMKnKNAop6DknLmcTkas8Pf/view?usp=sharing)
+**Chat Transcript:** [Technical Steering Committee - 2025/10/22 - Chat Transcript](https://drive.google.com/file/d/1prHKG4GhzsMKnKNAop6DknLmcTkas8Pf/view?usp=sharing)
 
 ## Intros
 
-Adam: OSC, TSC, CIP Editor, DripDropz LLC\
-Alex: Head of Infrastructure, Cardano Foundation, TSC member, Parameter Committee\
+**Adam:** OSC, TSC, CIP Editor, DripDropz LLC\
+**Alex:** Head of Infrastructure, Cardano Foundation, TSC member, Parameter Committee\
 co-chair, CF Drep committee voting member,\
-Ben: TBD\
-Duncan: TBD\
-Johnny: Non-Custodial Co-Management SysOps Engineer (Tech Janitor) for 3 Mainnet\
+**Ben:** TBD\
+**Duncan:** TBD\
+**Johnny:** Non-Custodial Co-Management SysOps Engineer (Tech Janitor) for 3 Mainnet\
 Cardano SPO Clients. Keystone Ambassador. Voting Seat Member on Technical Steering\
 Committee and Open Source Committee.\
-Kevin:  TSC chair, Hylomorph Solutions Ltd\
-Markus: TSC voting member, CF employee, SPO\
-Neil: TSC, Network Params, PNSol Ltd\
-Nicolas: TSC member, IOG\
-Sebastian: Software Engineer/Architect, nCoding GmbH, IOE, TSC member\
-Tex: OS Program Manager (Intersect), GMC/MCC/OSC Secretary, Committee Liaison
------------------------------------------------------------------------------
+**Kevin:**  TSC chair, Hylomorph Solutions Ltd\
+**Markus:** TSC voting member, CF employee, SPO\
+**Neil:** TSC, Network Params, PNSol Ltd\
+**Nicolas:** TSC member, IOG\
+**Sebastian:** Software Engineer/Architect, nCoding GmbH, IOE, TSC member\
+**Tex:** OS Program Manager (Intersect), GMC/MCC/OSC Secretary, Committee Liaison
 
 ## Agenda 10.22.25
 
@@ -69,9 +58,7 @@ Tex: OS Program Manager (Intersect), GMC/MCC/OSC Secretary, Committee Liaison
 
 ## Decisions/Actions
 
-There were several decisions made and actions assigned during the meeting.
-
-Decisions
+**Decisions**
 
 * Agenda Prioritization: Agreed to start the meeting with Arnaud's presentation on Antithesis to accommodate Nicolas and Neil's need to leave early.
 * Antithesis Discussion: Decided to seek feedback on the Antithesis funding proposal (community asset funded by the Treasury) asynchronously or offline.
@@ -81,26 +68,23 @@ Decisions
 * Considering the proposal to name the hard fork in memory of Maxon Rothsam, and subsequently putting the final naming decision to the community as an info action.
 * HFWG Scope: Agreed that the HFWG should be a standing group focused on the overall cadence of releases and hard forks (including the Dijkstra hard fork), essentially serving as a release management group.
 
-Actions
+**Actions**
 
-* Kevin:
-* Take the list of HFWG volunteers/essential members (Kevin, Adam, Johnny, Sebastian, Alex (optional)) offline to coordinate the initial meeting invitations.
-* Start a document and make initial comments on the Cardano Strategy Document/Enabling Technology Pillar to allow others to contribute, then pass it on to Sam.
-* Arnaud (or Antithesis Team):
-* Provide detailed answers to Neil's questions regarding the cost-benefit analysis, false positive rate, robustness in regression, and scaling for conformance testing.
-* Coordinate with the Cardano Foundation regarding the future of Antithesis funding post-2025.
-* Johnny:
-* Write a report to highlight lessons learned from the Disaster Recovery Fire Drill.
-* Carry out additional test scenarios, specifically Scenario 1 (bifurcated network recovery).
-* Determine whether additional tooling (fast-forwarding clock) or updating the SIP to reflect distributed use of DB Synthesizer is necessary.
-* Put the action points for the fire drill follow-up in the technical steering chat.
-* T. and Kevin:
-* Coordinate with Jess to get a list of initial invitees for the reformed HFWG.
-* All Attendees:
-* Look at the link provided for the Cardano Strategy Document/Enabling Technology pillar and provide individual contributions (e.g., submitting PRs) if a coordinated PR is not possible due to the short timeline before the Cardano Summit.
-
-\
-
+* **Kevin:**
+  * Take the list of HFWG volunteers/essential members (Kevin, Adam, Johnny, Sebastian, Alex (optional)) offline to coordinate the initial meeting invitations.
+  * Start a document and make initial comments on the Cardano Strategy Document/Enabling Technology Pillar to allow others to contribute, then pass it on to Sam.
+* **Arnaud (or Antithesis Team):**
+  * Provide detailed answers to Neil's questions regarding the cost-benefit analysis, false positive rate, robustness in regression, and scaling for conformance testing.
+  * Coordinate with the Cardano Foundation regarding the future of Antithesis funding post-2025.
+* **Johnny:**
+  * Write a report to highlight lessons learned from the Disaster Recovery Fire Drill.
+  * Carry out additional test scenarios, specifically Scenario 1 (bifurcated network recovery).
+  * Determine whether additional tooling (fast-forwarding clock) or updating the SIP to reflect distributed use of DB Synthesizer is necessary.
+  * Put the action points for the fire drill follow-up in the technical steering chat.
+* **Tex and Kevin:**
+  * Coordinate with Jess to get a list of initial invitees for the reformed HFWG.
+* **All Attendees:**
+  * Look at the link provided for the Cardano Strategy Document/Enabling Technology pillar and provide individual contributions (e.g., submitting PRs) if a coordinated PR is not possible due to the short timeline before the Cardano Summit.
 
 | Topic                                     | Discussion                                                                                                                                                                                                                                                                                                                                                              | Notes                                                                                                                                                                                                                                     |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
