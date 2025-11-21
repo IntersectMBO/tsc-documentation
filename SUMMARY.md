@@ -5,7 +5,8 @@
 * [Technical Steering Committee (TSC)](README.md)
 * [Committee members](about/committee-members.md)
 * [Technical Working Groups](about/working-groups/README.md)
-* [Security Council](about/security-council.md)
+* [Security Council](about/security-council/README.md)
+  * [SanchoNet Fire Drill](about/security-council/sanchonet-fire-drill.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 
 ## Policies

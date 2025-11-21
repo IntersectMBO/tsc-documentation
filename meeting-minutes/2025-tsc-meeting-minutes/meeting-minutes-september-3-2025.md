@@ -55,8 +55,7 @@ Committee and Open Source Committee.\
 #### Decisions
 
 1. **Objective review:** The TSC decided to provide an objective review of the CIP and avoid making subjective judgments. Their role is to provide informed analysis of technical trade-offs, not to make final product decisions.\
-   \
-
+   <br>
 2. **Delay of other topics:** The group decided to table other topics, such as the disaster recovery fire drill, to focus on the CIP analysis.
 
 #### Actions

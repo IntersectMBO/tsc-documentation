@@ -31,11 +31,10 @@ Review of plutus script limits after HF
 
 * No update
 
-\
-
+<br>
 
 Action
 
 \[Duncan] - Publication of Timeliness & Memory Capacity
 
-\
+<br>

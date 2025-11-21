@@ -16,8 +16,7 @@ Nicholas Clark: TSC Voting Member - Tweag/Modus
 
 Ben Hart: TSC Voting member - MLabs
 
-\
-
+<br>
 
 Duncan Soutar: Secretary of TSC - Intersect
 
@@ -42,8 +41,7 @@ Tex McCutcheon: Open Source Program Manager, Intersect Staff, Open Source Commit
 1. New proposal submission pages - Duncan
    1. Showcasing input form and process guidance for adding new proposals for consideration to roadmap
    2. [https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/Yzy77cQuAEYNjeNy3YrN/technical-roadmap/how-to-participate-in-shaping-the-technical-roadmap](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/Yzy77cQuAEYNjeNy3YrN/technical-roadmap/how-to-participate-in-shaping-the-technical-roadmap)
-   3. h[ttps://docs.google.com/forms/d/e/1FAIpQLSdD6vCGq1oQ3eSa3tOKN1DB3MJaMxs96zXqKp8v1ghHw6tceQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdD6vCGq1oQ3eSa3tOKN1DB3MJaMxs96zXqKp8v1ghHw6tceQ/viewform)\
-
+   3. h[ttps://docs.google.com/forms/d/e/1FAIpQLSdD6vCGq1oQ3eSa3tOKN1DB3MJaMxs96zXqKp8v1ghHw6tceQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdD6vCGq1oQ3eSa3tOKN1DB3MJaMxs96zXqKp8v1ghHw6tceQ/viewform)<br>
 2.  Presentation of budget process to the community - Duncan/Matt
 
     1. Well received in meeting on Tuesday - 1 more session booked
@@ -112,8 +110,7 @@ Tex McCutcheon: Open Source Program Manager, Intersect Staff, Open Source Commit
 
 3. Job Security and Funding Stability:\
    Explore mechanisms to secure contracts for contractors, such as a six-month funding reserves
-   1. Address contractual uncertainties to avoid talent attrition.\
-
+   1. Address contractual uncertainties to avoid talent attrition.<br>
 4.  Tendering and Procurement:
 
     * Publish a transparent RFP and tendering process.

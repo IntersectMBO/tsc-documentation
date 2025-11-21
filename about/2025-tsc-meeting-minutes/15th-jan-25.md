@@ -16,8 +16,7 @@ Nicholas Clark: TSC Voting Member - Tweag/Modus
 
 Ben Hart: TSC Voting member - MLabs
 
-\
-
+<br>
 
 Duncan Soutar: Secretary of TSC - Intersect
 

@@ -19,8 +19,7 @@
 
 Community/Other Attendees
 
-* Christian Taylor\
-
+* Christian Taylor<br>
 
 **Recording:** [Technical Steering Committee - 2025/08/20- Recording](https://drive.google.com/file/d/12SKExchflgMehQPTsIg1K6JjBJZQGRyp/view?usp=sharing)
 

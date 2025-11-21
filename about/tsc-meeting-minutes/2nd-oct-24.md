@@ -32,8 +32,7 @@ Attendees:&#x20;
 
 \[Action: To be ratified as party of next week’s TSC]
 
-\[Ratified offline in following days]\
-
+\[Ratified offline in following days]<br>
 
 4. **Review of Roadmap - Duncan**
    1. Amendments to Capacity - Reduced to 32L to bring down overall cost of budget

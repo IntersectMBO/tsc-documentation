@@ -40,8 +40,7 @@ Tex McCutcheon: Open Source Program Manager, Intersect Staff, Open Source Commit
 
 1. Responses from Prioritisation Survey - Duncan
    1. 54 Responses so far. Suggestion for TSC to review ahead of deadline on 6th Dec
-   2. [https://docs.google.com/spreadsheets/d/1x9GEoEGKhLx6cXqBNazfSuixg3tYoWecypZ-VbUSJTk/edit?resourcekey=\&gid=654989463#gid=654989463](https://docs.google.com/spreadsheets/d/1x9GEoEGKhLx6cXqBNazfSuixg3tYoWecypZ-VbUSJTk/edit?resourcekey=\&gid=654989463#gid=654989463)\
-
+   2. [https://docs.google.com/spreadsheets/d/1x9GEoEGKhLx6cXqBNazfSuixg3tYoWecypZ-VbUSJTk/edit?resourcekey=\&gid=654989463#gid=654989463](https://docs.google.com/spreadsheets/d/1x9GEoEGKhLx6cXqBNazfSuixg3tYoWecypZ-VbUSJTk/edit?resourcekey=\&gid=654989463#gid=654989463)<br>
 2. Phase 2 Contracts - Duncan
    1. Request for a list of these from Procurement - “P2 items are not classified as necessities but are still high-priority requests, contingent on budget availability”
    2. List of potential P2 projects
@@ -52,10 +51,8 @@ Tex McCutcheon: Open Source Program Manager, Intersect Staff, Open Source Commit
       5. Governance Improvements: 5-7
       6. Partnerchains?: 6-9
       7. Decentralised Stablecoin?: 7-9
-      8. Leios: 2/3-\
-
-3. Intersect Tendering & Contracting Process - Gemma & Tayla\
-
+      8. Leios: 2/3-<br>
+3. Intersect Tendering & Contracting Process - Gemma & Tayla<br>
 4. Hard Fork Working Group Update - Matt/ Adam
    1. New issue in Ledger - Timing
 

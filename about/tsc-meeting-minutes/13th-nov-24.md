@@ -46,8 +46,7 @@ Attendees:   [Duncan Soutar](mailto:duncan.soutar@intersectmbo.org)  [Duncan Cou
    2. Vote by committee on approval to publish (soft launch) & delegate management to Functional Team
 4.  Budget creation update - Duncan
 
-    1. Initial presentation to ISC completed on Tuesday (yesterday) and docs shred with ISC: [TSC Budget Presentation v2](https://docs.google.com/presentation/d/1M1JMkdc43Mp9bRmBqMoWF2ymsITgzIctkEWlpEd3_Fw/edit#slide=id.p)\
-
+    1. Initial presentation to ISC completed on Tuesday (yesterday) and docs shred with ISC: [TSC Budget Presentation v2](https://docs.google.com/presentation/d/1M1JMkdc43Mp9bRmBqMoWF2ymsITgzIctkEWlpEd3_Fw/edit#slide=id.p)<br>
     2. First session with community to be held on Tuesday (19th Nov)
     3. Review of questionnaire to enable community input to TSC budget & roadmap: [https://docs.google.com/forms/d/1aGwaVxHyI3vMX3UxQ2PKLxr1rVbprZ1K2735YcIAjH4/edit](https://docs.google.com/forms/d/1aGwaVxHyI3vMX3UxQ2PKLxr1rVbprZ1K2735YcIAjH4/edit)
     4. Agreement to review and finalize the above a-sync
@@ -75,8 +74,7 @@ Attendees:   [Duncan Soutar](mailto:duncan.soutar@intersectmbo.org)  [Duncan Cou
 
 
 8. Maintenance - ‘Must have’ Scope
-   1. Review Required by TSC of scope\
-
+   1. Review Required by TSC of scope<br>
 9. TSC Admin - Duncan
    1. Creation of log of actions, minutes & decisions
 

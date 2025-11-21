@@ -9,8 +9,7 @@ Community/Other Attendees
 * Andrew Aitken
 * Christian Taylor
 * Kris Bennett
-* Ryan Williams\
-
+* Ryan Williams<br>
 
 **Recording:** [Technical Steering Committee - 2025/09/17 - Recording](https://drive.google.com/file/d/1Zut7Xf7lK6uphxdpnlDwbcjnsMx_miJg/view?usp=sharing)
 

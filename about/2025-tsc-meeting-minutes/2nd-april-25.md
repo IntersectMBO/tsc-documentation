@@ -43,8 +43,7 @@ Ricky Rand - IOE General Manager
 Simo Simovic - ISC Secretary
 
 \
-\
-
+<br>
 
 **Minutes:**
 
@@ -53,8 +52,7 @@ Simo Simovic - ISC Secretary
 * Thanking TSC for opportunity to address TSC
 * Action: Looking to come back with a short term tactical plan at end of this week having listened to opinion of Committees throughout the week
 * NJ & AR: Endorsing Ger’s statement
-* Issues raised and put forward to board Summarised by Neil Davies.  \
-
+* Issues raised and put forward to board Summarised by Neil Davies.  <br>
 
 2. **TSC Opening Address:**
 
@@ -145,4 +143,4 @@ Issues raised are as follows:
 
 Action: Agreement to follow up meeting. Ger to provide a series of slots to Kevin.&#x20;
 
-\
+<br>

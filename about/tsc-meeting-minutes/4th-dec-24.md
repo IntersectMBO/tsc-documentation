@@ -106,4 +106,4 @@ e. Out of Scope
 | Hard Fork Coordination           | Updates on hard fork planning to ensure smooth implementation with minimal community disruptions over the holiday period.                                                                                             | <p>Continue monitoring and address any arising issues promptly.</p><p><br></p>                                                           |
 | Wrap-Up and Next Steps           | Agreement to address pending discussions on tendering processes and other major items in upcoming sessions.                                                                                                           | Schedule additional discussions for unresolved topics before the holiday break.                                                          |
 
-\
+<br>

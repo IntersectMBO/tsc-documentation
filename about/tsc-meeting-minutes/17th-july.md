@@ -35,8 +35,7 @@ Duncan Soutar, Kevin Hammond, Christian Taylor, Lewis Maybe & Abbie Yeates
 * Maintainer contracts being developed
 * Discussion on diversifying maintainership with Node Emulator & Anataeus&#x20;
 * Discussion on the development of the contribution ladder which is to be published to help provide a pathway to diversify maintainorship
-* Kevin Hammond to review the proposed new maintainers put forward by the OpenSource Committee.\
-
+* Kevin Hammond to review the proposed new maintainers put forward by the OpenSource Committee.<br>
 
 **Parameters Committee**
 
