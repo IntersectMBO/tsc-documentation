@@ -1,33 +1,6 @@
 # Committee members
 
-{% hint style="info" %}
-The Technical Steering Committee is currently in an interim phase and currently does not yet have member representation.&#x20;
-{% endhint %}
-
-## Committee Composition (10 Members)
-
-1 Chair
-
-1 Vice-Chair
-
-9 Seats (Vice-Chair is counted as a seat)
-
-2 Secretary (Secretary is not a Committee Member)
-
-| Role        | Name                     | Term Rotations  |
-| ----------- | ------------------------ | --------------- |
-| Chair       | Kevin Hammond            | October '25     |
-| Vice-Chair  | Adam Dean                | October '25     |
-| Secretary   | Terence 'Tex' McCutcheon | N/A - Secretary |
-| Secretary   | Lorenzo Bruno            | N/A - Secretary |
-| Voting Seat | Ben Hart                 | October '25     |
-| Voting Seat | Johnny Kelly             | October '25     |
-| Voting Seat | Markus Gufler            | October '25     |
-| Voting Seat | Alexander Moser          | April '26       |
-| Voting Seat | Duncan Coutts            | April '26       |
-| Voting Seat | Neil Davies              | April '26       |
-| Voting Seat | Nicolas Biri             | April '26       |
-| Voting Seat | Sebastian Nagel          | April '26       |
+<table data-header-hidden><thead><tr><th align="center"></th><th align="center"></th><th width="134.65966796875" align="center"></th><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Name</td><td align="center">Attendance</td><td align="center">Role</td><td align="center">Voting Seat (Y/N)</td><td align="center">Term</td></tr><tr><td align="center">Kevin Hammond</td><td align="center">Yes</td><td align="center">Chair</td><td align="center">Y</td><td align="center">October 2026</td></tr><tr><td align="center">TBC</td><td align="center">Yes</td><td align="center">Vice Chair</td><td align="center">Y</td><td align="center">October 2025</td></tr><tr><td align="center">Bosko Majdanac</td><td align="center">Yes</td><td align="center">Secretary</td><td align="center">N</td><td align="center">N/A</td></tr><tr><td align="center">Tex McCutcheon</td><td align="center">No</td><td align="center">Alt - Secretary</td><td align="center">N</td><td align="center">N/A</td></tr><tr><td align="center">Nicolas Biri</td><td align="center">Yes</td><td align="center">Member/Seat</td><td align="center">Y</td><td align="center">April 2026</td></tr><tr><td align="center">Duncan Coutts</td><td align="center">Yes</td><td align="center">Member/Seat</td><td align="center">Y</td><td align="center">April 2026</td></tr><tr><td align="center">Sebastian Nagel</td><td align="center">Yes</td><td align="center">Member/Seat</td><td align="center">Y</td><td align="center">April 2026</td></tr><tr><td align="center">Neil Davies</td><td align="center">Yes</td><td align="center">Member/Seat</td><td align="center">Y</td><td align="center">April 2026</td></tr><tr><td align="center">Alexander Moser</td><td align="center">Yes</td><td align="center">Member/Seat</td><td align="center">Y</td><td align="center">April 2026</td></tr><tr><td align="center">Ryan Wiley</td><td align="center">Yes</td><td align="center">Member/Seat</td><td align="center">Y</td><td align="center">October 2026</td></tr><tr><td align="center">Udai Solanki</td><td align="center">No</td><td align="center">Member/Seat</td><td align="center">Y</td><td align="center">October 2026</td></tr><tr><td align="center">Leandros Holleman</td><td align="center">Yes</td><td align="center">Member/Seat</td><td align="center">Y</td><td align="center">October 2026</td></tr><tr><td align="center">Seungheon Oh</td><td align="center">No</td><td align="center">Member/Seat</td><td align="center">Y</td><td align="center">October 2026</td></tr></tbody></table>
 
 ### Voting Seat Criteria
 
