@@ -18,7 +18,7 @@ The committee is a rallying point for key members, suppliers, and third parties 
 
 ## Which topics does this committee cover?
 
-The TSC takes a leading role in defining and advising on [Cardano continuity](broken-reference) development to support the Cardano network, including contracts and agreements with Intersect members. It’s a highly technocratic committee, providing deep technical analysis and advice to ongoing development projects, parameters settings (through the [Parameter Committee](https://app.gitbook.com/s/o50OuflyxfUMOt8hHPn2/intersect-membership/intersect-committees/technical-steering-committee-tsc/parameter-committee-pc)), and any other network related conditions.
+The TSC takes a leading role in defining and advising on [Cardano continuity](/broken/spaces/o50OuflyxfUMOt8hHPn2/pages/5NOfy7L7hxLCdAg5P4C8) development to support the Cardano network, including contracts and agreements with Intersect members. It’s a highly technocratic committee, providing deep technical analysis and advice to ongoing development projects, parameters settings (through the [Parameter Committee](https://app.gitbook.com/s/o50OuflyxfUMOt8hHPn2/intersect-membership/intersect-committees/technical-steering-committee-tsc/parameter-committee-pc)), and any other network related conditions.
 
 It is proposed the TSC will work in conjunction with the [budget committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/gsGMUGjBGIwHbN0vrf7v/) for budgetary assignment, ratification, and other financial matters. It is also proposed the TSC will work in combination with the proposed backlog committee, under the premise of the backlog committee being responsible for the ‘what’, and the TSC for the ‘how’.
 
@@ -26,7 +26,7 @@ The membership of the TSC will need to consider how it handles sensitive or conf
 
 ## Agenda&#x20;
 
-In the current interim phase, under the stewardship of the [delivery assurance team](broken-reference) the TSC holds a rolling agenda on the following;
+In the current interim phase, under the stewardship of the [delivery assurance team](/broken/spaces/o50OuflyxfUMOt8hHPn2/pages/U7OtVfQyoGtpIfRTx1Ym) the TSC holds a rolling agenda on the following;
 
 * Welcome to the Committee/Introductions as required
 * Delivery Update (upcoming and significant delivery milestones)
