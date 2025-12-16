@@ -22,6 +22,10 @@
 * [Potential Roadmap Projects](technical-roadmap/potential-roadmap-projects.md)
 * [Maintenance Items](technical-roadmap/maintenance-items.md)
 
+## Reviews
+
+* [TSC review on nested transactions inquiry](reviews/tsc-review-on-nested-transactions-inquiry.md)
+
 ## Meeting Minutes
 
 * [2026 TSC Meeting Minutes](meeting-minutes/2026-tsc-meeting-minutes/README.md)
