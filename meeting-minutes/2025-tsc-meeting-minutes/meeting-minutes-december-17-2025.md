@@ -5,7 +5,7 @@
 | Name              | Attendance | Role            | Voting Seat (Y/N) | Term         |
 | ----------------- | ---------- | --------------- | ----------------- | ------------ |
 | Kevin Hammond     | Yes        | Chair           | Y                 | October 2026 |
-| TBC               | Yes        | Vice Chair      | Y                 | October 2025 |
+| TBC               | Yes        | Vice Chair      | Y                 | October 2026 |
 | Bosko Majdanac    | Yes        | Secretary       | N                 | N/A          |
 | Tex McCutcheon    | Yes        | Alt - Secretary | N                 | N/A          |
 | Nicolas Biri      | Yes        | Member/Seat     | Y                 | April 2026   |
