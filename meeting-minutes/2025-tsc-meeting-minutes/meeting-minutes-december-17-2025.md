@@ -26,6 +26,8 @@ Community/Other Attendees
 
 Recording: [Technical Steering Committee - 2025/12/17 08:28 CST - Recording](https://drive.google.com/file/d/133t_q55tQSdiBhQZAH2dHk5tER4-HNPn/view)
 
+Youtube recording: [https://youtu.be/-cDw\_cgPwIQ](https://youtu.be/-cDw_cgPwIQ)
+
 Transcript: [Technical Steering Committee - 2025/12/17 08:28 CST - Transcript](https://docs.google.com/document/d/1OrsszQSrakWZdEzPcigr5E3g6tcv9xhwSCU2KBV8j3M/edit?tab=t.0#heading=h.epb983napx8r)
 
 Chat Transcript: [Technical Steering Committee - 2025/12/17 - Chat Transcript](https://drive.google.com/file/d/19z3JMf8zZxE8qOT-Jzg0Gzzxvg-diMwm/view)
