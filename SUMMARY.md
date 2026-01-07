@@ -7,6 +7,7 @@
 * [Technical Working Groups](about/working-groups/README.md)
 * [Security Council](about/security-council/README.md)
   * [SanchoNet Fire Drill](about/security-council/sanchonet-fire-drill.md)
+  * [Security.md](about/security-council/security.md.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 
 ## Policies
