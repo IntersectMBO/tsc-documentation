@@ -1,8 +1,8 @@
 ---
-description: This write up is in .md format in case copied for use.
+description: Disaster Recovery for Scenrio 2 of CIP 135
 ---
 
-# Security.md
+# Security (Markdown)
 
 \# Security Vulnerability Disclosure Policy
 
