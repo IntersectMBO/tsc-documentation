@@ -1,5 +1,7 @@
 ---
-description: Disaster Recovery for Scenrio 2 of CIP 135
+description: >-
+  Current version of Security policy for Core Cardano and Intersect owned
+  repositories.
 ---
 
 # Security (Markdown)
