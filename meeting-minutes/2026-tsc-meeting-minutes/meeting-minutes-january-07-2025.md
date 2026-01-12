@@ -66,7 +66,7 @@ Tex: Terence 'Tex' McCutcheon - Open Source Program Manager, Intersect Staff, OS
 * Kevin: Follow up with Alex to confirm if the blog post/thread regarding the Constitution Committee size was published.
 * Bosco (via Kevin): Extend formal invitations to the Product Committee for a joint session to align the 2030 Vision with 2026 goals.
 * Ryan Williams: Merge suggested edits from executives into the Chain Partition Incident Report and finalize the document for the board.
-* TSC Members: Review the proposed metadata for the "Van Rosenom" hard fork naming action and provide feedback by Friday.
+* TSC Members: Review the proposed metadata for the "Van Rossem" hard fork naming action and provide feedback by Friday.
 * TSC Members: Review the draft TSC Operational Budget and provide asynchronous comments/feedback before the next meeting.
 * Ryan (Cerkoryn): Prepare a formal presentation for next week regarding the proposal to increase $K$ to 1,000 and lower the minimum pool cost to 75.
 * Kevin & Ryan Williams: Meet to finalize the schedule for parameter updates and coordinate the timing of the various upcoming governance actions.
