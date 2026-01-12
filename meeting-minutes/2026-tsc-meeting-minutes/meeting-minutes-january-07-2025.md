@@ -57,7 +57,7 @@ Tex: Terence 'Tex' McCutcheon - Open Source Program Manager, Intersect Staff, OS
 **Decisions**
 
 * Hard Fork Priority: The committee decided not to delay the hard fork for non-essential features; specifically, Node 10.6.2 will likely be the release candidate, while the LSM features in 10.7 will be deferred to a later version (11.1).
-* Naming Convention: The committee agreed to move forward with the governance action to officially name the upcoming hard fork the "Max Van Rosenom" hard fork.
+* Naming Convention: The committee agreed to move forward with the governance action to officially name the upcoming hard fork the "Max Van Rossem" hard fork.
 * Budget Methodology: The group decided to focus first on defining the "what" (headings and priorities) of the operational budget before assigning specific ADA or Dollar values.
 * KPI Review Strategy: The committee reached a consensus to scrutinize all KPIs in the 2030 Vision document for technical feasibility and internal consistency, rather than just accepting them as product-level aspirations.
 
@@ -68,7 +68,7 @@ Tex: Terence 'Tex' McCutcheon - Open Source Program Manager, Intersect Staff, OS
 * Ryan Williams: Merge suggested edits from executives into the Chain Partition Incident Report and finalize the document for the board.
 * TSC Members: Review the proposed metadata for the "Van Rossem" hard fork naming action and provide feedback by Friday.
 * TSC Members: Review the draft TSC Operational Budget and provide asynchronous comments/feedback before the next meeting.
-* Ryan (Cerkoryn): Prepare a formal presentation for next week regarding the proposal to increase $K$ to 1,000 and lower the minimum pool cost to 75.
+* Ryan (Cerkoryn): Prepare a formal presentation for next week regarding the proposal to increase K to 1,000 and lower the minimum pool cost to 75.
 * Kevin & Ryan Williams: Meet to finalize the schedule for parameter updates and coordinate the timing of the various upcoming governance actions.
 * All Members: Consider and submit nominations for the Vice Chair position as soon as possible.<br>
 
