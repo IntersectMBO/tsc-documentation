@@ -16,7 +16,7 @@
 | Ryan Wiley        | Yes        | Member/Seat     | Y                 | October 2026 |
 | Udai Solanki      | No         | Member/Seat     | Y                 | October 2026 |
 | Leandros Holleman | Yes        | Member/Seat     | Y                 | October 2026 |
-| Seungheon Oh      | No         | Member/Seat     | Y                 | October 2026 |
+| Empty Seat        | No         | Member/Seat     | Y                 | October 2026 |
 
 Community/Other Attendees
 
@@ -24,13 +24,13 @@ Community/Other Attendees
 * James Meidinger
 * Ryan Williams
 
-Recording: [Technical Steering Committee - 2025/12/17 08:28 CST - Recording](https://drive.google.com/file/d/133t_q55tQSdiBhQZAH2dHk5tER4-HNPn/view)
+**Youtube recording:** [https://youtu.be/-cDw\_cgPwIQ](https://youtu.be/-cDw_cgPwIQ)
 
-Youtube recording: [https://youtu.be/-cDw\_cgPwIQ](https://youtu.be/-cDw_cgPwIQ)
+**Recording:** [Technical Steering Committee - 2025/12/17 - Recording](https://drive.google.com/file/d/133t_q55tQSdiBhQZAH2dHk5tER4-HNPn/view)
 
-Transcript: [Technical Steering Committee - 2025/12/17 08:28 CST - Transcript](https://docs.google.com/document/d/1OrsszQSrakWZdEzPcigr5E3g6tcv9xhwSCU2KBV8j3M/edit?tab=t.0#heading=h.epb983napx8r)
+**Transcript:** [Technical Steering Committee - 2025/12/17 - Transcript](https://docs.google.com/document/d/1OrsszQSrakWZdEzPcigr5E3g6tcv9xhwSCU2KBV8j3M/edit?tab=t.0#heading=h.epb983napx8r)
 
-Chat Transcript: [Technical Steering Committee - 2025/12/17 - Chat Transcript](https://drive.google.com/file/d/19z3JMf8zZxE8qOT-Jzg0Gzzxvg-diMwm/view)
+**Chat Transcript:** [Technical Steering Committee - 2025/12/17 - Chat Transcript](https://drive.google.com/file/d/19z3JMf8zZxE8qOT-Jzg0Gzzxvg-diMwm/view)
 
 ## Intros
 
