@@ -70,7 +70,7 @@ Christian: Christian Taylor, Head of OSO/ Incubation, Intersect and a guy who pr
 
 * Kevin: Follow up with Alex via Slack to confirm if the blog post regarding the Constitution Committee size has been published.
 * Kevin: Apply additional pressure to the Intersect Executive and Board to ensure the timely release of the Chain Incident Report.
-* Ryan: Perform detailed mathematical analysis on how much stake needs to move to smaller pools to make them viable under the proposed $K=1,000$ change.
+* Ryan: Perform detailed mathematical analysis on how much stake needs to move to smaller pools to make them viable under the proposed K=1,000 change.
 * Kevin: Schedule a "pre-meeting" for the TSC small group to align on KPI criticisms before the joint session with the Product Committee next Tuesday.
 * TSC Members: Download and save a PDF copy of the finalized Chain Incident Report (v0.5) for personal records to ensure no unauthorized changes are made during the legal review.
 * TSC Members: Review the 2025 Foundational Research and Technology Validation reports provided by Fergie and provide feedback by January 23rd.
