@@ -75,7 +75,7 @@ Christian: Christian Taylor, Head of OSO/ Incubation, Intersect and a guy who pr
 * TSC Members: Download and save a PDF copy of the finalized Chain Incident Report (v0.5) for personal records to ensure no unauthorized changes are made during the legal review.
 * TSC Members: Review the 2025 Foundational Research and Technology Validation reports provided by Fergie and provide feedback by January 23rd.
 * Nicolas: Act as the primary proxy/point of contact for any technical questions regarding the IOG research papers.
-* Kevin: Organize a separate session to finalize the TSC Operational Budget proposal before his upcoming absence.
+* Kevin: Organize a separate session to progress the TSC Operational Budget proposal
 * Bosko: Reconcile calendars to potentially move the Hard Fork Working Group meeting time to better align with IO's internal node meetings.
 
 
