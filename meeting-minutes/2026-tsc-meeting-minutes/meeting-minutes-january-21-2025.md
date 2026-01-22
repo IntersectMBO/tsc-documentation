@@ -30,6 +30,8 @@ Community/Other Attendees
 
 Recording: [Technical Steering Committee - 2026/01/21 - Recording](https://drive.google.com/file/d/1bj9x7wa-xzU2HVLl3Hk3WaDubXhN16ae/view?usp=sharing)
 
+Youtube: [https://youtu.be/\_jS-egZUH4c](https://youtu.be/_jS-egZUH4c)
+
 Transcript: [Technical Steering Committee - 2026/01/21 - Transcript](https://docs.google.com/document/d/1V5DMeoBO2IyxVwYXb_--MakQK60pWiyqGcu5XjsyJ4k/edit?usp=sharing)
 
 Chat Transcript: [Technical Steering Committee - 2026/01/21 - Chat Transcript](https://drive.google.com/file/d/12dyMhVJfO1l9t1Nu3z_RCnIn-Z9hSWF7/view?usp=sharing)
