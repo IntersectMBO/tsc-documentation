@@ -1,4 +1,4 @@
-# Meeting Minutes January 28, 2025
+# Meeting Minutes January 28, 2026
 
 ## Attendees:&#x20;
 
@@ -60,9 +60,9 @@ Tex: Open Source Program Manager, Intersect Staff, OSC Secretary, Committee Liai
 
 * **Markus**: Provide the specific date/time for the SPO roundtable to the committee for promotion.
 * **Neil & Kevin**: Review the Constitution 2.4 updates and security assessment for the next meeting.
-* Ryan: Write a paragraph summarizing the "Stake Pool Math" (including pool counts and redistribution figures) for the minutes.
-* Nicolas: Contact Carlos/IOG to determine the release timeline for the Incentive Research report.
-* All Members: Spend 10 minutes reviewing the Operational Budget document on Slack and leave comments.<br>
+* **Ryan**: Write a paragraph summarizing the "Stake Pool Math" (including pool counts and redistribution figures) for the minutes.
+* **Nicolas**: Contact Carlos/IOG to determine the release timeline for the Incentive Research report.
+* **All Members**: Spend 10 minutes reviewing the Operational Budget document on Slack and leave comments.<br>
 
 | **Topic**                     | **Discussion**                                                                                                                                                   | **Notes**                                                                                                                              |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
