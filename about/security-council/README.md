@@ -1,6 +1,6 @@
 # Security Council
 
-{% file src="../.gitbook/assets/Security Policy (Public).pdf" %}
+{% file src="../../.gitbook/assets/Security Policy (Public).pdf" %}
 This Council is established by and addresses issues raised under the Security Policy.
 {% endfile %}
 
