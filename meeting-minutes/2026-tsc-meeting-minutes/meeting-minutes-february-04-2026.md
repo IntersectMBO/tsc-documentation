@@ -1,4 +1,4 @@
-# Meeting Minutes February 04, 2025
+# Meeting Minutes February 04, 2026
 
 ## Attendees:&#x20;
 
@@ -39,7 +39,7 @@ Nicolas: Nicolas Biri, TSC voting member, IOG\
 Ryan (Cerkoryn): Ryan Wiley, TSC voting member, Cybersecurity professional\
 Kevin: Kevin Hammond, TSC Chair, Ensurable Systems
 
-## Agenda 11.05.25
+## Agenda 02.04.26
 
 * Actions from the last meeting
 * Charli3 Incubation - Robert
@@ -77,13 +77,13 @@ Math for how many pools could be affected by changing stakePoolTargetNum from 50
 
 ## Decisions/Actions
 
-Decisions
+**Decisions**
 
 * Charlie 3 Incubation: The TSC formally moved to proceed with the incubation of Charlie 3 under Intersect, pending review of supplemental materials.
 * Budget Draft: The TSC agreed to remove "Town Halls" from the funding request and proceed with socialization of the draft (minus milestone rate disputes).
 * Communication: Agreed to utilize the TSC Twitter account to promote the SPO round table recording and the Plutus memory limit vote.
 
-Actions
+**Actions**
 
 * Alexander: Follow up with Miquel (Exchange integrations) to encourage exchange pools to vote on governance actions.
 * Kevin: Discuss the Plutus memory limit vote with Emergo and promote it during the monthly SPO call.
