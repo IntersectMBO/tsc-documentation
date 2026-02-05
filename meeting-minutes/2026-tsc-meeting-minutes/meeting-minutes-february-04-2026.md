@@ -86,7 +86,7 @@ Math for how many pools could be affected by changing stakePoolTargetNum from 50
 **Actions**
 
 * Alexander: Follow up with Miquel (Exchange integrations) to encourage exchange pools to vote on governance actions.
-* Kevin: Discuss the Plutus memory limit vote with Emergo and promote it during the monthly SPO call.
+* Kevin: Discuss the Plutus memory limit vote with Emurgo and promote it during the monthly SPO call.
 * Bosko: Schedule a meeting with the Intersect delivery team (Matt) to discuss budget overheads and milestone review rates.
 * Leandros: Create a draft of realistic KPI targets (conservative/optimistic/stretch) for 2026–2030.
 * Kevin & Neil: Complete a detailed technical audit of Constitution v2.4, specifically regarding guardrail label uniqueness.
