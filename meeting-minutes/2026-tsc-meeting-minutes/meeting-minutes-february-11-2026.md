@@ -53,12 +53,12 @@ Tex: Open Source Program Manager, Intersect Staff, OSC Secretary, Committee Liai
 
 ## Decisions/Actions
 
-Decisions
+**Decisions**
 
 * Budget Sharing: Unanimously agreed to share the TSC operational budget draft with the Intersect delivery team and Steering Committee for socialization.
 * Governance Priority: Agreed that passing the current memory unit limit update is the immediate priority to preserve the technical timeline.
 
-Actions
+**Actions**
 
 * Alexander & TSC X Account: Promote the "auto-abstain" mechanism for SPOs to reduce governance friction for non-participating pools.
 * Leandros: Share the comprehensive KPI targets document and quarterly breakdown with the committee for async review.
