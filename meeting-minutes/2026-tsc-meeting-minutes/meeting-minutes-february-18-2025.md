@@ -67,17 +67,17 @@ Tex: Open Source Program Manager, Intersect Staff, OSC Secretary, Committee Liai
 
 **Decisions**
 
-* Provisional Agreement on KPIs: The committee accepted the initial KPI framework presented by Leandros, subject to normalizing the "Chain Density" metric to "Chain Quality."
-* Budget Socialization: Kevin will continue socializing the budget with the Intersect Steering Committee (ISC) but will seek to move "proposal reviews" to a general Intersect line item.
-* Elections Questions: The TSC confirmed that the existing election questions for technical seats remain valid and do not require immediate amendment for the April cycle.
+* **Provisional Agreement on KPIs:** The committee accepted the initial KPI framework presented by Leandros, subject to normalizing the "Chain Density" metric to "Chain Quality."
+* **Budget Socialization:** Kevin will continue socializing the budget with the Intersect Steering Committee (ISC) but will seek to move "proposal reviews" to a general Intersect line item.
+* **Elections Questions:** The TSC confirmed that the existing election questions for technical seats remain valid and do not require immediate amendment for the April cycle.
 
 **Actions**
 
-* Alexander: Publish the X (Twitter) post regarding the SPO auto-abstain mechanism to the community.
-* Leandros: Connect with the consensus/research team (Yorgos) to refine the Chain Quality metric for the 2030 vision.
-* Kevin & Neil: Continue the technical audit of Constitution v2.4, focusing specifically on the guardrail text and immutability definitions.
-* Bosko: Share the link to the three TSC-specific election questions on Slack for a final 48-hour review by the committee.
-* Ryan (C): Present the DRep Compensation Paper for a dedicated discussion in the next TSC meeting.
+* **Alexander:** Publish the X (Twitter) post regarding the SPO auto-abstain mechanism to the community.
+* **Leandros:** Connect with the consensus/research team (Yorgos) to refine the Chain Quality metric for the 2030 vision.
+* **Kevin & Neil:** Continue the technical audit of Constitution v2.4, focusing specifically on the guardrail text and immutability definitions.
+* **Bosko:** Share the link to the three TSC-specific election questions on Slack for a final 48-hour review by the committee.
+* **Ryan (C):** Present the DRep Compensation Paper for a dedicated discussion in the next TSC meeting.
 
 <br>
 
