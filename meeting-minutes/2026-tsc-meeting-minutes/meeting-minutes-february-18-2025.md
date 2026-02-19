@@ -12,7 +12,7 @@
 | Duncan Coutts     | Yes        | Member/Seat     | Y                 | April 2026   |
 | Sebastian Nagel   | Yes        | Member/Seat     | Y                 | April 2026   |
 | Neil Davies       | No         | Member/Seat     | Y                 | April 2026   |
-| Alexander Moser   | No         | Member/Seat     | Y                 | April 2026   |
+| Alexander Moser   | Yes        | Member/Seat     | Y                 | April 2026   |
 | Ryan Wiley        | Yes        | Member/Seat     | Y                 | October 2026 |
 | Udai Solanki      | No         | Member/Seat     | Y                 | October 2026 |
 | Leandros Holleman | Yes        | Member/Seat     | Y                 | October 2026 |
