@@ -63,7 +63,7 @@ Chat Transcript: [Technical Steering Committee - 2026/03/04 - Chat Transcript](h
 * **Kevin & Neil:** Sync up to finalize the formal technical concern statement for the Civics Committee regarding Constitution v2.4.
 * **Bosko:** Update the Miro board for the TSC budget based on Kevin’s feedback on Slack and clarify the feedback loop with Intersect.
 * **Kevin:** Ask Mike Hornan to attend the next Parameter Committee meeting to discuss the rationale for the 5 ADA DRep deposit proposal.
-* **Sebastian:** Coordinate a Doodle poll to schedule a dedicated technical session for the TSC to dive deeper into Linear Layers risk management.<br>
+* **Sebastian:** Coordinate a Doodle poll to schedule a dedicated technical session for the TSC to dive deeper into Linear Leios risk management.<br>
 
 | Topic                   | Discussion                                                                                                                                                 | Notes                                                                                                                  |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
