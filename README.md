@@ -2,37 +2,23 @@
 
 ## What is the Technical Steering Committee?
 
-The Technical Steering Committee (TSC) ensures that the governance of Cardano is based upon sound technical awareness and best practices. The committee's duties are expected to include:&#x20;
+The Technical Steering Committee (TSC) provides recommendations to ensure that decisions made either on-chain or off-chain for Cardano development are based upon sound technical awareness and best practices, in order to ensure the security and sustainability of Cardano.
 
-* Facilitating delivery & technical assurance from [continuity delivery partners](https://www.intersectmbo.org/news/cardano-continuity) and suppliers
-* Coordination of major integrations and technical events, such as hard forks
-* Facilitating peer review of technical recommendations from other committees, such as Open Source & the Parameter committee
-* Recommending the execution details of the backlog (backlog currently under design from the [Ecosystem Process Design working group](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/K7cBOo8O1BpQ2uwlq0BE/))
-* Drafting of milestone deliverables, acceptance criteria, and quality assurance for the execution recommendation
-* Facilitating a tender/award process for major contracts with members
-* Coordination of working groups focused on the above
-
-## Why is this committee important?
-
-The committee is a rallying point for key members, suppliers, and third parties to coordinate the delivery of development services to support the Cardano blockchain. The committee facilitates contract arrangements and service level agreements, creates proposals of technical concern, and reviews, and evaluates proposals prepared by the Cardano community, such as parameter updates or hard forks.&#x20;
+The scope of the Technical Steering Committee is primarily focused on core infrastructure, including the Layer 1 protocol, critical tooling to support the operation of Cardano (including disaster recovery and chain following),  and essential infrastructure to support Layer 2 development.
 
 ## Which topics does this committee cover?
 
-The TSC takes a leading role in defining and advising on [Cardano continuity](/broken/spaces/o50OuflyxfUMOt8hHPn2/pages/5NOfy7L7hxLCdAg5P4C8) development to support the Cardano network, including contracts and agreements with Intersect members. It’s a highly technocratic committee, providing deep technical analysis and advice to ongoing development projects, parameters settings (through the [Parameter Committee](/broken/spaces/o50OuflyxfUMOt8hHPn2/pages/Xh9g2LYCAQk5f35nq4XK)), and any other network related conditions.
+The committee's duties are expected to include:
 
-It is proposed the TSC will work in conjunction with the [budget committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/gsGMUGjBGIwHbN0vrf7v/) for budgetary assignment, ratification, and other financial matters. It is also proposed the TSC will work in combination with the proposed backlog committee, under the premise of the backlog committee being responsible for the ‘what’, and the TSC for the ‘how’.
-
-The membership of the TSC will need to consider how it handles sensitive or confidential contractual information. It will also need to define how it handles sensitive security information.
-
-## Agenda&#x20;
-
-In the current interim phase, under the stewardship of the [delivery assurance team](/broken/spaces/o50OuflyxfUMOt8hHPn2/pages/U7OtVfQyoGtpIfRTx1Ym) the TSC holds a rolling agenda on the following;
-
-* Welcome to the Committee/Introductions as required
-* Delivery Update (upcoming and significant delivery milestones)
-* Actions review of the TSC
-* Updates from Working Groups
-* AOB
+1. Coordinating major integrations and technical events, such as hard forks or releases, when brought to (or raised by) the Technical Steering Committee or which are connected to repositories within Intersect’s stewardship.
+2. Recommending improvements to protocol parameter settings:\
+   Reviewing existing protocol parameter settings, providing advice and making recommendations on changes, recommending initial settings for new protocol parameters and preparing on-chain protocol parameter upgrade governance actions.
+3. Overseeing network and implementation security for core Cardano, maintaining a register of security concerns, coordinating responses to security issues, organising a bug bounty programme (jointly with the Open Source Committee), and defining and coordinating disaster recovery procedures.
+4. Reviewing technical recommendations related to Cardano from other committees, such as the Open Source committee, Product committee, Growth and Marketing committee and others, where formally requested.&#x20;
+5. Collaborating and providing technical inputs in the creation of a proposed long term vision and an annual roadmap for Cardano (to be then proposed on-chain), including ensuring the feasibility of implementation of the roadmap, and that technical, security and long-term sustainability concerns are properly addressed.
+6. Wherever relevant and applicable, and where Intersect have formally requested, supporting proposals administered by Intersect with technical feedback and/or guidance.&#x20;
+7. Overseeing Working Groups with the purpose of reviewing the technical work on Cardano, including ledger, consensus, networking, release, layer 2, and other core Cardano technologies, ensuring that technical and security concerns are properly addressed.
+8. Providing content and organising open-forums to educate and inform the broader community about relevant information on Cardano node and other related technical work.
 
 The committee observes Intersect's Membership Code of Conduct.
 
