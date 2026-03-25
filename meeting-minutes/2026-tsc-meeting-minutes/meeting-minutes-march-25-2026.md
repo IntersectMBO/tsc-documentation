@@ -67,7 +67,7 @@ Chat Transcript: [Technical Steering Committee - 2026/03/25 - Chat Transcript](h
 * **Leandros:** Update the 2030 KPI document with the latest feedback from the Product Committee and share the community-driven initiatives memo.
 * **Terence:** Share the confirmed time slots for the upcoming Election X-Spaces and Virtual Hub events in the chat/Slack.
 * **Kevin:** Review the Node v10.7 pre-release notes and provide final TSC approval for the release.
-* **Neil:** Investigate the feasibility of an RSS feed for technical parameter updates to improve developer communication.
+* **Bosko:** Investigate the feasibility of an RSS feed for technical parameter updates to improve developer communication.
 * **Bosko:** Coordinate a Doodle poll to schedule the private “Linear Leios Risk Management” deep dive with Sebastian.
 
 <br>
