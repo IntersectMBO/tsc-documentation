@@ -22,6 +22,3 @@ The committee's duties are expected to include:
 
 The committee observes Intersect's Membership Code of Conduct.
 
-{% hint style="warning" %}
-Much of the above information is proposed at this time and will be ratified by the first community TSC members. &#x20;
-{% endhint %}
