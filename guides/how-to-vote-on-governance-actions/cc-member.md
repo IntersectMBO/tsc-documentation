@@ -1,4 +1,4 @@
-# How to vote on governance actions
+# CC Member
 
 ### Constitutional Committee Credential Manager
 

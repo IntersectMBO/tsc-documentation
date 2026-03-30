@@ -29,7 +29,8 @@
 
 ## Guides
 
-* [How to vote on governance actions](guides/how-to-vote-on-governance-actions.md)
+* [How to vote on governance actions](guides/how-to-vote-on-governance-actions/README.md)
+  * [CC Member](guides/how-to-vote-on-governance-actions/cc-member.md)
 
 ## Meeting Minutes
 
