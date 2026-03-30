@@ -27,6 +27,10 @@
 
 * [TSC review on nested transactions inquiry](reviews/tsc-review-on-nested-transactions-inquiry.md)
 
+## Guides
+
+* [How to vote on governance actions](guides/how-to-vote-on-governance-actions.md)
+
 ## Meeting Minutes
 
 * [2026 TSC Meeting Minutes](meeting-minutes/2026-tsc-meeting-minutes/README.md)
