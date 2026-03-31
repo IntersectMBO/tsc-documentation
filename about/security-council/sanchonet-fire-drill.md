@@ -1,5 +1,5 @@
 ---
-description: Disaster Recovery for Scenrio 2 of CIP 135
+description: Disaster Recovery for Scenario 2 of CIP 135
 ---
 
 # SanchoNet Fire Drill
