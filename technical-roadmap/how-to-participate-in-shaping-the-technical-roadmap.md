@@ -1,7 +1,11 @@
+---
+hidden: true
+---
+
 # How to Participate in Shaping the Technical Roadmap
 
 {% hint style="warning" %}
-The Cardano budget process and project submissions process has changed, you can read about it in full [here](https://docs.intersectmbo.org/cardano/cardano-budget-submission)
+The Cardano budget process and project submissions process has changed, you can read about it in full [here](https://docs.intersectmbo.org/intersect-knowledge-base/cardano-facilitation-services/cardano-budget-2026)
 {% endhint %}
 
 All proposals for 2025 funding can now be found on [Cardano GovTool](https://gov.tools/budget_discussion), there is a growing list of alternate tools many of which are listed [here](https://docs.gov.tools/cardano-govtool/using-govtool/cardano-budget-proposals) in the FAQ to help the community sort and evaluate proposals.&#x20;

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Maintenance Items
 
 There are a large number of supportive, maintenance style items required in any given period to keep Cardano running. These have been labelled as maintenance items, although understanding some of the work items outlined do not strictly meet this common definition, it is the most convenient. An indicative breakdown of these can be found below.
