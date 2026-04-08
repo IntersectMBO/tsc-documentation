@@ -43,6 +43,7 @@
   * [Meeting Minutes March 18, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-march-18-2026.md)
   * [Meeting Minutes March 25, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-march-25-2026.md)
   * [Meeting Minutes April 1, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-april-1-2026.md)
+  * [Meeting Minutes April 8, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-april-8-2026.md)
 * [2025 TSC Meeting Minutes](about/2025-tsc-meeting-minutes/README.md)
   * [2025 Member Attendance](about/2025-tsc-meeting-minutes/2025-member-attendance.md)
   * [2025 TSC Decision Log](about/2025-tsc-meeting-minutes/2025-tsc-decision-log.md)
