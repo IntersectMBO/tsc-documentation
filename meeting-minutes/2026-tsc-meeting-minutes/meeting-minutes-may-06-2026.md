@@ -52,7 +52,7 @@ Chat Transcript: [Technical Steering Committee - 2026/05/06 - Chat Transcript](h
 
 **Actions**
 
-* **Lorenzo:** Send onboarding invites and details to newly elected/reelected members this week.
+* **Bosko:** Send onboarding invites and details to newly elected/reelected members this week.
 * **Kevin & Bosko:** Coordinate offline to draft the DApp developer communication regarding cost risks.
 * **Kevin:** Invite IOG cryptographers to present specific post-quantum risks to Cardano.
 * **Neil & Sebastian:** Continue the Leios technical risk discourse in a written, public format (Google Doc).
