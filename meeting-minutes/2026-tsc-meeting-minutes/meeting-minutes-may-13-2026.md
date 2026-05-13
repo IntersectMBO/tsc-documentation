@@ -49,7 +49,7 @@ Christian: Founder of Open-Source Cowboy, Filecoin Governance team, Andamio and 
 
 Bosko: Senior Project Manager, Intersect Staff, TSC Secretary
 
-## Agenda 05.13.26
+## Agenda 13th May 2026
 
 * Welcome to new members and introductions
 * Actions from the last meeting
