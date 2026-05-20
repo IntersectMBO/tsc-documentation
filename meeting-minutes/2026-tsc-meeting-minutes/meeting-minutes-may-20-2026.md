@@ -56,7 +56,7 @@ Chat Transcript: [Technical Steering Committee - 2026/05/20 - Chat Transcript](h
 
 **Actions**
 
-* **Kevin:** Revise the TSC Ecclesia budget proposal by Friday noon to explicitly include the community-requested transparency and conflict of interest guidelines.
+* **Kevin:** Revise the TSC Ekklesia budget proposal by Friday noon to explicitly include the community-requested transparency and conflict of interest guidelines.
 * **Alonzo & New Members:** Review the CC minimum size rationale metadata document prepared by Ryan and comment on Slack.
 * **Marcin, Alonzo, & Alexander:** Check email inboxes to accept the pending ClickUp workspace invitations sent via Intersect.
 * **Alonzo:** Coordinate with Terence and Bosko to update and sync his official member profile email address for private Slack channel access.
