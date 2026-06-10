@@ -61,8 +61,8 @@ Chat Transcript: [Technical Steering Committee - 2026/06/10 - Chat Transcript](h
 * **Kevin:** Conduct targeted async outreach to undecided DReps to secure further voting support for the TSC and Intersect budget proposals before the June 12th deadline.
 * **Neil:** Postpone the formal vote on producing the Leios technical requirements document until the conclusion of the private in-camera session.
 * **Bosko:** Set up the poll in the TSC members only channel on committee policies acceptance based on Neil and Alonzo expressing strong dissatisfaction with the newly formalized annual election and committee dismissal policies introduced by the Governance Working Group.
-
-<br>
+* **Christian:** Retrieve the public quantum readiness presentation link from Hart and share it with the committee.
+* **Alexander:** Follow up with Griffin regarding the placement and timeline of the user feedback/dispute button on the Proposal Examiner interface.
 
 | Topic                        | Discussion                                                                                                                                                                      | Notes                                                                                                   |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
