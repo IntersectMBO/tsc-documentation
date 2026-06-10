@@ -59,7 +59,7 @@ Tex: OS Program Manager (Intersect), GMC/MCC/OSC Secretary, Committee Liaison
 * **Christian:** Retrieve the public quantum readiness presentation link from Hart and share it with the committee.
 * **Alexander:** Follow up with Griffin regarding the placement and timeline of the user feedback/dispute button on the Proposal Examiner interface.
 * **Terence:** Set up the formal 24-hour verification poll for the CC minimum size metadata document inside the private TSC members-only channel.
-* **Bosko:** Track the upcoming Hard Fork Working Group data points to ensure the Ogmios/Koopo structural dependencies are monitored for upstream merging within the next 3 months.
+* **Bosko:** Track the upcoming Hard Fork Working Group data points to ensure the Ogmios/Kupo structural dependencies are monitored for upstream merging within the next 3 months.
 * **Neil:** Draft an agenda framework outlining the committee's specific system integrity concerns regarding Leios to prepare for a deep-dive session.
 * **All Members:** Submit any remaining leadership candidacy applications before the June 8th cutoff and prepare for an internal, unrecorded "in-camera" Leios readiness session on June 10th.
 * **Bosko:** Set up the poll in the TSC members only channel on committee policies acceptance based on Neil and Alonzo expressing strong dissatisfaction with the newly formalized annual election and committee dismissal policies introduced by the Governance Working Group.
