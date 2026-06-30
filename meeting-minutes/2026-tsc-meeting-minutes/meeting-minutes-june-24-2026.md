@@ -51,20 +51,20 @@ Chat Transcript: [Technical Steering Committee - 2026/06/24 - Chat Transcript](h
 
 ## Decisions/Actions
 
-Decisions
+**Decisions**
 
-* Meeting Cadence: Rejected an Intersect suggestion to cancel next week's regular meeting for a "focus week," choosing to maintain the standard weekly technical cadence.
-* Wallet Mitigation Strategy: Endorsed the safety recommendation that affected users perform a single-transaction fund migration to a clean wallet architecture rather than merely restoring seed phrases.
-* Budget Strategy Transparency: Approved the principle of dynamically adjusting and scaling back sub-category funding allocations to maintain structural alignment with lower ADA exchange rates.
+* **Meeting Cadence:** Rejected an Intersect suggestion to cancel next week's regular meeting for a "focus week," choosing to maintain the standard weekly technical cadence.
+* **Wallet Mitigation Strategy:** Endorsed the safety recommendation that affected users perform a single-transaction fund migration to a clean wallet architecture rather than merely restoring seed phrases.
+* **Budget Strategy Transparency:** Approved the principle of dynamically adjusting and scaling back sub-category funding allocations to maintain structural alignment with lower ADA exchange rates.
 
-Actions
+**Actions**
 
-* Christian: Coordinate with Kevin via Slack to lock in a recurring weekly 30-minute alignment sync.
-* Christian: Complete the comparative study isolating high-value quantum readiness frameworks across Algorand, Arbitrum, and Stellar by the end of the week.
-* Ryan: Deliver the draft community questionnaire regarding the $K=1000$ parameter modification to the Parameter Committee a week from tomorrow.
-* Kevin: Compile an outline promotion plan for the on-chain TSC budget proposal, integrating it directly with Intersect's marketing channels.
-* Kevin & Christian: Formulate a presentation and participate in an upcoming Cardano Over Coffee Twitter Space next week to promote the on-chain TSC budget proposal.
-* All Members: Review the Q2/Q3 quarterly slide decks and submit final tactical modifications before the time-lock deadline tomorrow.
+* **Christian:** Coordinate with Kevin via Slack to lock in a recurring weekly 30-minute alignment sync.
+* **Christian:** Complete the comparative study isolating high-value quantum readiness frameworks across Algorand, Arbitrum, and Stellar by the end of the week.
+* **Ryan:** Deliver the draft community questionnaire regarding the $K=1000$ parameter modification to the Parameter Committee a week from tomorrow.
+* **Kevin:** Compile an outline promotion plan for the on-chain TSC budget proposal, integrating it directly with Intersect's marketing channels.
+* **Kevin & Christian:** Formulate a presentation and participate in an upcoming Cardano Over Coffee Twitter Space next week to promote the on-chain TSC budget proposal.
+* **All Members:** Review the Q2/Q3 quarterly slide decks and submit final tactical modifications before the time-lock deadline tomorrow.
 
 <br>
 
