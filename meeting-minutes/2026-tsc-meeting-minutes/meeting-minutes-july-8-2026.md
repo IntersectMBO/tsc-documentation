@@ -17,21 +17,13 @@
 | Leandros Holleman  | No         | Member/Seat     | Y                 | October 2026 |
 | Seungheon Oh       | No         | Member/Seat     | Y                 | October 2026 |
 
-<br>
-
 Community/Other Attendees
 
 * Ryan Williams
 
-<br>
-
 Recording: [Technical Steering Committee - 2026/07/08 - Recording](https://drive.google.com/file/d/1DPSMTE4m7tIhOvYvrmUV0CTDIJRzmo4Y/view?usp=drive_link)
 
-<br>
-
 Transcript: [Technical Steering Committee - 2026/07/08 - Transcript](https://docs.google.com/document/d/1GOeHVmyD1zh2_nGOIWBfFgHj1w9tRnFy1TpFibiWIss/edit?usp=drive_link)
-
-<br>
 
 Chat Transcript: [Technical Steering Committee - 2026/07/08 - Chat Transcript](https://drive.google.com/file/d/19qQ20OoGTFh4EnLv6tkLBnrE6YPUx22O/view?usp=drive_link)
 
