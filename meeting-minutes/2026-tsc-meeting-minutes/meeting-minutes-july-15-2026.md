@@ -63,7 +63,7 @@ Chat Transcript: [Technical Steering Committee - 2026/07/15 - Chat Transcript](h
 * **Bosko:** Share the Intersect communications support document containing links and graphics with the TSC as soon as it is received from the marketing team.
 * **Christian:** Finalize the post-quantum cryptography summary report by Friday, July 17th, for inclusion in next week's agenda.
 * **Kevin:** Draft a reminder tweet urging the community to vote on the on-chain TSC budget proposal before the July 23rd deadline.
-* **Kevin:** Contact Jeff to resolve the communication confusion and request a formal response to the June technical gating questions regarding linear layoffs.
+* **Kevin:** Contact Jeff to resolve the communication confusion and request a formal response to the June technical gating questions regarding linear Leios.
 * **Kevin:** Follow up on the outstanding action to acquire a summary or transcript of Hamza's post-quantum cryptography seminar.
 * **Neil & Ryan:** Collaborate on drafting a visual dependency graph and timeline to demonstrate the realistic constraints of the Dijkstra hard fork.
 
