@@ -55,7 +55,7 @@ Chat Transcript: [Technical Steering Committee - 2026/08/12 - Chat Transcript](h
 * **Alex:** Coordinate with Marcus to ensure CIP-155 is included in the upcoming SPO campaign.
 * **Alex, Bosko, Tex:** Draft and publish a call-to-action post on X encouraging SPOs to participate in active governance votes.
 * **Bosko, Christian, & Tex:** Meet offline to finalize contract templates and milestone structures for contributors based on past experience.
-* **Christian:** Review the Leios technical working document and add comments/feedback.
+* **TSC members:** Review the Leios technical working document and add comments/feedback.
 * **Christian:** Meet with Neil or Kevin to draft an action plan on post quantum cryptography and present it to the TSC.
 * **Christian:** Upload the corrected repository security scan reports and coordinate with Tex regarding escalation to Nick.
 
