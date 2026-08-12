@@ -50,7 +50,7 @@ Chat Transcript: [Technical Steering Committee - 2026/08/12 - Chat Transcript](h
 * **CIP Impact Analysis Responsibility:** Impact analyses for protocol changes will originate from CIP authors/implementers and undergo validation by CIP editors (e.g., Robert) before being centralized on the Cardano Upgrades site.
 * **Leios Review Framework:** The TSC will utilize a shared Google Doc as the central working document to provide technical feedback and evaluate showstoppers for the Leios implementation.
 
-Actions
+**Actions**
 
 * **Alex:** Coordinate with Marcus to ensure CIP-155 is included in the upcoming SPO campaign.
 * **Alex, Bosko, Tex:** Draft and publish a call-to-action post on X encouraging SPOs to participate in active governance votes.
