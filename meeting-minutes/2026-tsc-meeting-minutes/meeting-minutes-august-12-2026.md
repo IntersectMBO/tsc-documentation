@@ -46,7 +46,7 @@ Chat Transcript: [Technical Steering Committee - 2026/08/12 - Chat Transcript](h
 
 **Decisions**
 
-* **Public Budget Transparency:** The TSC decided to issue periodic public updates (including posts on X) detailing the conversion and utilization of the secured $24k USD budget for technical experts and reports.
+* **Public Budget Transparency:** The TSC decided to issue periodic public updates (including posts on X) detailing the conversion and utilization of the secured $24k USD budget for technical experts and reports
 * **CIP Impact Analysis Responsibility:** Impact analyses for protocol changes will originate from CIP authors/implementers and undergo validation by CIP editors (e.g., Robert) before being centralized on the Cardano Upgrades site.
 * **Leios Review Framework:** The TSC will utilize a shared Google Doc as the central working document to provide technical feedback and evaluate showstoppers for the Leios implementation.
 

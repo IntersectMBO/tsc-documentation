@@ -48,6 +48,8 @@ Chat Transcript: [Technical Steering Committee - 2026/08/05 - Chat Transcript](h
 **Decisions**
 
 * **TSC Budget Hedging Approval:** Formally authorized Intersect to convert designated budget lines, Technical Expert Attendance at Community Events and Commissioning of Technical Reports, (\~20% of the total budget allocated) into USD, leaving the remaining operational budget denominated in ADA.
+  * 40K USD for Technical Expert Attendance at Community Events
+  * 24K USD for Commissioning of Technical Reports
 * **SPO SRV Record Promotion:** Approved community outreach to encourage SPO adoption of DNS SRV records (CIP-155) to enhance network resilience for Mithril and future node extensions.
 
 **Actions**
