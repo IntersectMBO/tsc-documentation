@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Technical Steering Committee
+  structure:
+    - type: space
+      key: space-1
+      title: Intersect - Technical Steering Committee
+      path: technical-steering-committee
+      default: true
+      content:
+        directory: ./intersect-technical-steering-committee
