@@ -29,7 +29,7 @@ Transcript: [Technical Steering Committee - 2026/09/09 - Transcript](https://doc
 
 Chat Transcript: [Technical Steering Committee - 2026/09/09 - Chat Transcript](https://drive.google.com/file/d/1T-9RVizUUL5_5qgn7PLbjvJqu8tvRIAv/view?usp=drive_link)
 
-## Agenda 2nd September 2026
+## Agenda 9th September 2026
 
 * Actions from the last meeting
 * Dijkstra era hard fork
