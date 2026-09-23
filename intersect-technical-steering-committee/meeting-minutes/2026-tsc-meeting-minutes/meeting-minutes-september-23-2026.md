@@ -55,9 +55,8 @@ Chat Transcript: [Technical Steering Committee - 2026/09/23 - Chat Transcript](h
 * **Kevin:** Draft additional technical risk notes (gap analysis) for committee review and submit them to the general delivery risk register.
 * **Kevin:** Set up a poll for prioritizing upcoming technical reports to commission.
 * **Kevin:** Finalize details with Intersect regarding stablecoin conversion for the TSC budget.
-* **Kevin:** Prepare Q3 achievements and Q4 goals reporting inputs.
+* **Kevin/Christian:** Prepare Q3 achievements and Q4 goals reporting inputs.
 * **Christian:** Coordinate a meeting time with the research team regarding the post-quantum risk assessment before the end of Q4.
-* **Christian:** Assist Kevin with preparing Q3/Q4 reporting inputs for Intersect.
 * **Terence:** Create and maintain ClickUp intake forms for CIP editor applicants, travel funding requests, and expert funding applications.
 * **Kevin/Terence:** Finalize and publish the travel funding call and application form ahead of the London Node Diversity workshop.
 * **Kevin/Bosko:** Define formal review criteria alongside Kevin for allocating expert funding for the Parameter Committee and Hard Fork Working Group.
