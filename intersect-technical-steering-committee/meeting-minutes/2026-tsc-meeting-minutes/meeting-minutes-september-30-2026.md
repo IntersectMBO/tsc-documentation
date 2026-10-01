@@ -1,4 +1,4 @@
-# Meeting Minutes October 01, 2026
+# Meeting Minutes September 30, 2026
 
 ## Attendees:&#x20;
 
@@ -28,7 +28,7 @@ Transcript: [Technical Steering Committee - 2026/09/30 16:00 CEST - Transcript](
 
 Chat Transcript: [Technical Steering Committee - 2026/09/30 - Chat Transcript](https://drive.google.com/file/d/1QQD6_nnP3bz6LRGtZO8WJAvuntYHyWV7/view?usp=drive_link)
 
-## Agenda 23rd September 2026
+## Agenda 30th September 2026
 
 * Actions from the last meeting
 * Dijkstra era hard fork
