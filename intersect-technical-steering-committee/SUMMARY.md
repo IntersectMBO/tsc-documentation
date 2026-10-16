@@ -27,6 +27,10 @@
 
 * [TSC review on nested transactions inquiry](reviews/tsc-review-on-nested-transactions-inquiry.md)
 
+## Parameter Committee
+
+* [Commissioned Research & Benchmarking](parameter-committee/commissioned-research-and-benchmarking.md)
+
 ## Meeting Minutes
 
 * [2026 TSC Meeting Minutes](meeting-minutes/2026-tsc-meeting-minutes/README.md)
