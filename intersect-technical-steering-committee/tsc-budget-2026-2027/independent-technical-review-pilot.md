@@ -62,4 +62,4 @@ Both are published on this GitBook.
 
 Questions or review requests: \[contact]
 
-Programme lead: Leandros Holleman
+Program lead: Leandros Holleman
