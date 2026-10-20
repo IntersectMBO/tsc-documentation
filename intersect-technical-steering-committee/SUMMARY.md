@@ -10,26 +10,14 @@
   * [Security (Markdown)](about/security-council/security-markdown.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 
-## Policies
+## TSC Budget 2026-2027
 
-* [Evalution Criteria](policies/evalution-criteria.md)
-
-## Technical Roadmap
-
-* [How to Participate in Shaping the Technical Roadmap](technical-roadmap/how-to-participate-in-shaping-the-technical-roadmap.md)
-* [Technical Roadmap Explained](technical-roadmap/technical-roadmap-explained.md)
-* [Project Cards Explained](technical-roadmap/project-cards-explained/README.md)
-  * [Software Readiness Level](technical-roadmap/project-cards-explained/software-readiness-level.md)
-* [Potential Roadmap Projects](technical-roadmap/potential-roadmap-projects.md)
-* [Maintenance Items](technical-roadmap/maintenance-items.md)
-
-## Reviews
-
-* [TSC review on nested transactions inquiry](reviews/tsc-review-on-nested-transactions-inquiry.md)
-
-## Parameter Committee
-
-* [Commissioned Research & Benchmarking](parameter-committee/commissioned-research-and-benchmarking.md)
+* [Commissioned Technical Reports](tsc-budget-2026-2027/commissioned-technical-reports.md)
+* [Technical Expert Event Attendance](tsc-budget-2026-2027/technical-expert-event-attendance.md)
+* [CIP Editors Stipend](tsc-budget-2026-2027/cip-editors-stipend.md)
+* [Hard Fork Working Group Stipend](tsc-budget-2026-2027/hard-fork-working-group-stipend.md)
+* [Parameter Committee Stipend](tsc-budget-2026-2027/parameter-committee-stipend.md)
+* [Independent Technical Review Pilot](tsc-budget-2026-2027/independent-technical-review-pilot.md)
 
 ## Meeting Minutes
 
@@ -140,3 +128,24 @@
   * [24 April 24](meeting-minutes/tsc-meeting-minutes/24-april-24.md)
   * [10 April 24](meeting-minutes/tsc-meeting-minutes/10-april-24.md)
   * [27 Mar 24](meeting-minutes/tsc-meeting-minutes/27-mar-24.md)
+
+## Parameter Committee
+
+* [Commissioned Research & Benchmarking](parameter-committee/commissioned-research-and-benchmarking.md)
+
+## Policies
+
+* [Evalution Criteria](policies/evalution-criteria.md)
+
+## Technical Roadmap
+
+* [How to Participate in Shaping the Technical Roadmap](technical-roadmap/how-to-participate-in-shaping-the-technical-roadmap.md)
+* [Technical Roadmap Explained](technical-roadmap/technical-roadmap-explained.md)
+* [Project Cards Explained](technical-roadmap/project-cards-explained/README.md)
+  * [Software Readiness Level](technical-roadmap/project-cards-explained/software-readiness-level.md)
+* [Potential Roadmap Projects](technical-roadmap/potential-roadmap-projects.md)
+* [Maintenance Items](technical-roadmap/maintenance-items.md)
+
+## Reviews
+
+* [TSC review on nested transactions inquiry](reviews/tsc-review-on-nested-transactions-inquiry.md)
