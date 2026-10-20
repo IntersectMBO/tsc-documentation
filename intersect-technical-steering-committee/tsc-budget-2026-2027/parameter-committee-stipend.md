@@ -71,4 +71,4 @@ Both are published on this GitBook.
 
 \[Parameter Committee contact]
 
-Programme lead: Alexander Moser
+Program lead: Alexander Moser

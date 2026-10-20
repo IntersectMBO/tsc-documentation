@@ -71,4 +71,4 @@ Both are published on this GitBook.
 
 Email: [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org)
 
-Programme lead: Kevin Hammond (TSC Chair)
+Program lead: Kevin Hammond (TSC Chair)
