@@ -22,6 +22,15 @@
 ## Meeting Minutes
 
 * [2026 TSC Meeting Minutes](meeting-minutes/2026-tsc-meeting-minutes/README.md)
+  * [Meeting Minutes December 09, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-december-09-2026.md)
+  * [Meeting Minutes December 02, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-december-02-2026.md)
+  * [Meeting Minutes November 25, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-november-25-2026.md)
+  * [Meeting Minutes November 18, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-november-18-2026.md)
+  * [Meeting Minutes November 11, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-november-11-2026.md)
+  * [Meeting Minutes November 04, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-november-04-2026.md)
+  * [Meeting Minutes October 28, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-october-28-2026.md)
+  * [Meeting Minutes October 21, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-october-21-2026.md)
+  * [Meeting Minutes October 14, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-october-14-2026.md)
   * [Meeting Minutes October 07, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-october-07-2026.md)
   * [Meeting Minutes September 30, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-september-30-2026.md)
   * [Meeting Minutes September 23, 2026](meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-september-23-2026.md)
