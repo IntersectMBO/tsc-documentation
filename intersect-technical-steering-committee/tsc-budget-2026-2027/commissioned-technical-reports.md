@@ -34,6 +34,14 @@ The Technical Steering Committee (TSC) commissions independent technical reports
 * **Payment** is made on delivery and acceptance against the report's scope.
 * **Publication:** every report is reviewed by the WP1 lead and published here in full, crediting the author and reviewer, ahead of any governance vote it is meant to inform.
 
+### Agreed Topics&#x20;
+
+* (1) Post-Quantum Cryptography&#x20;
+* (2) Impact of Node Implementations
+* (3) Security Readiness
+
+\*sourced from Committee [Meeting Minutes Septemeber 30, 2026](../meeting-minutes/2026-tsc-meeting-minutes/meeting-minutes-september-30-2026.md)
+
 ### Published reports
 
 Coming Soon..&#x20;
