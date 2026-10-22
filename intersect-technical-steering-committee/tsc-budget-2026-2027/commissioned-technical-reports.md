@@ -22,9 +22,9 @@ The Technical Steering Committee (TSC) commissions independent technical reports
 
 | Report                           | Status                          |
 | -------------------------------- | ------------------------------- |
-| Post-Quantum Cryptography        | \[RFP open — link]              |
-| Alternative node implementations | \[RFP to follow]                |
-| Security readiness               | \[RFP to follow]                |
+| Post-Quantum Cryptography        | Pending RFP                     |
+| Alternative node implementations | Pending RFP                     |
+| Security readiness               | Pending RFP                     |
 | Fourth report                    | Open — chosen later in the year |
 
 ### How it works
