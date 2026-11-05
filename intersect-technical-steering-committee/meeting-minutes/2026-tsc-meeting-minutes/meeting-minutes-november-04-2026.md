@@ -1,6 +1,76 @@
----
-hidden: true
----
-
 # Meeting Minutes November 04, 2026
 
+## Attendees:&#x20;
+
+<table data-header-hidden><thead><tr><th width="172.44921875"></th><th align="center"></th><th></th><th width="156.51953125" align="center"></th><th></th></tr></thead><tbody><tr><td>Name</td><td align="center">Attendance</td><td>Role</td><td align="center">Voting Seat (Y/N)</td><td>Term</td></tr><tr><td>Kevin Hammond</td><td align="center">Yes</td><td>Chair</td><td align="center">Y</td><td>October 2026</td></tr><tr><td>Christian Taylor</td><td align="center">Yes</td><td>Vice Chair</td><td align="center">Y</td><td>October 2026</td></tr><tr><td>Tex McCutcheon</td><td align="center">Yes</td><td>Secretary</td><td align="center">N</td><td>N/A</td></tr><tr><td>Bosko Majdanac</td><td align="center">Yes</td><td>Alt - Secretary</td><td align="center">N</td><td>N/A</td></tr><tr><td>Marcin Szamotulski</td><td align="center">Yes</td><td>Member/Seat</td><td align="center">Y</td><td>April 2028</td></tr><tr><td>Alonzo Benavides</td><td align="center">No</td><td>Member/Seat</td><td align="center">Y</td><td>April 2028</td></tr><tr><td>Alexander Moser</td><td align="center">Yes</td><td>Member/Seat</td><td align="center">Y</td><td>April 2028</td></tr><tr><td>Ryan Wiley</td><td align="center">No</td><td>Member/Seat</td><td align="center">Y</td><td>October 2026</td></tr><tr><td>Leandros Holleman</td><td align="center">Yes</td><td>Member/Seat</td><td align="center">Y</td><td>October 2026</td></tr></tbody></table>
+
+Community/Other Attendees
+
+* Ken-Erik Ølmheim
+* Scott Kelly
+
+
+
+**Recording:** [Technical Steering Committee - 2026/11/04 - Recording](https://drive.google.com/file/d/1kI1RKTOQiEncaopBfnB5jc2cqiidiSWa/view?usp=sharing)
+
+**Transcript:** [Technical Steering Committee - 2026/11/04 - Transcript](https://docs.google.com/document/d/1gSuNgsYVStQ_NiGX_JpbZaBjCy0tAvB8zOjS6RPB8vc/edit?usp=sharing)
+
+**Chat Transcript:** [Technical Steering Committee - 2026/11/04 - Chat Transcript](https://drive.google.com/file/d/1lkSLrvxPGA_HYJVS-ktmtuiaKTbFnR3-/view?usp=sharing)
+
+## Agenda 4th November 2026
+
+* Actions from the last meeting
+* IOR/PAN Post Quantum Crypto - Postponed to December 2nd
+* Committee Member Count
+* Proposal to create Euler Scoping WG
+* Djikstra HF Status
+* TSC Budget
+* Leandros - WP3
+* Intersect Committee Review
+* Parameter Committee
+* AOB
+
+## Decisions/Actions
+
+**Decisions**
+
+* **Creation of the Euler Scoping Working Group:** Approved the establishment and charter of a joint Technical Steering Committee (TSC) and Product Committee working group to lead scoping and planning for the Euler ledger era hard fork (carried with 5 votes in favor).
+* **Travel Funding for Node Diversity Workshop (Sam):** Approved a travel reimbursement grant under Work Package 1 (WP1) capped at $2,000 for Sam to attend the London workshop (carried with 5 votes in favor).
+* **In-Principle Travel Funding for Node Diversity Workshop (Andrew & Joshua):** Approved funding in principle up to the standard $2,000 per-person limit for Andrew and Joshua to attend the London workshop, subject to receipt submission, compliance with travel policies, and async confirmation (carried by show of hands).
+* **Research Report on Linear Leios SPO Costs:** Approved the formal commissioning of an independent research report to analyze the infrastructure and operational cost impacts of linear layouts on stake pool operators (carried with 5 votes in favor).
+* **Research Report on Post-Quantum Cryptography:** Approved the commissioning of an RFP/research report assessing post-quantum cryptography impacts across the ecosystem (carried with 5 votes in favor).
+* **Confirmation of CIP Editors:** Approved the formal appointment of Robert and Adam as CIP Editors under Work Package 2 (WP2) following the review of their disclosed conflicts of interest (carried with 5 votes in favor).
+* **Meeting Cancellation:** Agreed by consensus to cancel the subsequent week’s scheduled committee meeting due to the London workshop and a US holiday, setting the next meeting for two weeks out.
+
+**Actions**
+
+* **Bosko and Terence:** Coordinate offline to reconcile ClickUp action items and clarify outstanding tasks from the previous meeting, including the attendee list for the London workshop.
+* **Kevin:** Ping the relevant stakeholders regarding the formal response on the serialization library and follow up on PARS team timing interactions data.
+* **Christian:** Offer December 2nd as the target date for the IOG/IOR post-quantum crypto presentation and confirm alignment with the Intersect schedule.
+* **All Committee Members:** Review the proposed Intersect committee restructuring documents and provide any feedback or suggested amendments to Kevin.
+* **Bosko:** Clarify feature availability for node release 11.2 with the release manager, specifically regarding reference script parameters.
+* **Bosko or Terence:** Share the Dijkstra hard fork risk log and evidence requirement document links in the Slack channel for member review.
+* **Christian and Alexander:** Draft the Request for Proposals (RFPs) for the Linear Leios SPO cost analysis and post-quantum crypto reports, duplicating and adapting existing ClickUp forms with assistance from Terence.
+* **Kevin and Alexander:** Address member funding models for the Hard Fork Working Group and Parameter Committee during tomorrow's Parameter Committee meeting.
+* **Leandros:** Provide the reviewer selection criteria and application information to Terence, and share the criteria in Slack.
+* **Terence:** Set up the WP3 reviewer application form in ClickUp once the criteria are received from Leandros.
+* **Alexander and Kevin:** Circulate the nine responses received regarding min fee/min UTxO costs to a restricted working group and run the security implications past the Security Council prior to any public release or redaction.
+* **All Committee Members:** Continue technical discussions in Slack and within the Hard Fork Working Group regarding the feasibility and implementation of a protocol-level kill switch for Linear Leios.
+
+| Topic                                                | Discussion                                                                                                                                                                                                                                                                                                                                  | Notes                                                                                                                                                                                              |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Meeting Quorum & Guest Introductions                 | Kevin noted a lack of voting members early on, though guests Scott and Ken-Erik were welcomed to participate without voting rights. Scott introduced his background with Input Output Group, while Ken-Erik mentioned exploring support from Anthropic/Claude. Once Marcin and Alexander joined later, a voting quorum was established.     | Bosko was asked to add guests to the contributor list. As five voting members eventually joined, formal votes were enabled.                                                                        |
+| Node Diversity Workshop Attendance & Travel Funding  | The upcoming London workshop was discussed regarding attendee nomination and travel funding requests under WP1 (Community Engagement). Travel grant requests were raised for Sam, Andrew, and Joshua.                                                                                                                                       | Approved travel support up to a $2,000 cap per traveler for workshop attendance, subject to receipts and standard travel policies. Final confirmation for Joshua and Andrew to occur out of band.  |
+| Carried-Over Action Items                            | Kevin reviewed actions from the previous meeting, noting Bosko's follow-up duties on attendee lists, the pending formal response regarding the serialization library, and an open request for PARS team data regarding timing interactions with networking traffic.                                                                         | Bosko and Terence to coordinate offline on pending action assignments and clear discrepancies in ClickUp.                                                                                          |
+| Post-Quantum Crypto Presentation                     | The group reviewed scheduling for the IOG/IOR post-quantum cryptography presentation, which had been postponed from today's session. Christian suggested offering December 2nd to ensure confirmation before the holiday period.                                                                                                            | Presentation target tentatively set for December 2nd; Christian to check schedule alignment with Intersect events.                                                                                 |
+| Oiler Scoping Working Group Charter                  | Kevin presented a draft charter to establish an open, independent joint working group between the TSC and the Product Committee for the Euler ledger era hard fork scoping, preventing backlog in the main Hard Fork Working Group.                                                                                                         | Motion to approve the creation of the Euler Scoping Working Group passed unanimously with 5 votes in favor.                                                                                        |
+| Intersect Committee Restructuring Review             | Kevin summarized proposals from Intersect to reduce committees from seven to four. Concerns were raised regarding governance oversight, the merger of Open Source functions into the TSC, board-delegated decision powers, and aligning member transitions with April elections.                                                            | Committee members were asked to review the unlocked proposal documents and submit any requested amendments to Kevin's feedback summary.                                                            |
+| Dijkstra Hard Fork Progress & Node Releases          | Bosko provided an update on the deployment of node 11.2 and the upcoming 11.3 release. He noted tests addressing previous memory regressions, pending Genesis file parameters, and the timeline for 11.4.1. Kevin highlighted risks regarding missing reference script parameters.                                                          | Bosko to confirm feature inclusions with the release manager; release 11.4.1 anticipated shortly.                                                                                                  |
+| Dijkstra Risk Log & Evidence Requirements            | Kevin outlined the risk log for the Dijkstra hard fork, focusing heavily on protocol changes and linear layouts. Discussion emphasized that while risks cannot be entirely eliminated, development teams must supply clear verification evidence before deployment.                                                                         | Risk log link to be shared across Slack for review; required evidence criteria to be finalized.                                                                                                    |
+| Linear Layouts SPO Cost Impact & Research Reports    | Kevin presented an analysis showing linear layouts could impose substantial infrastructure costs on stake pool operators (especially on hyperscalers), potentially threatening pool profitability. Christian proposed commissioning formal research reports to obtain rigorous numbers on SPO costs as well as post-quantum crypto impacts. | Motions passed to commission two formal reports: one on linear layouts SPO cost impacts and another on post-quantum cryptography. Christian and Alexander to draft RFPs.                           |
+| Appointment of CIP Editors                           | Kevin brought forward recommendations to appoint Robert and Adam as CIP editors under WP2, confirming that solicited conflict of interest disclosures had been submitted, reviewed, and addressed.                                                                                                                                          | Committee voted unanimously (5 in favor) to confirm the appointment of Robert and Adam as CIP editors.                                                                                             |
+| Committee Contributor Funding Models                 | The committee reviewed compensation models for active working group and committee contributors (such as the Hard Fork Working Group and Parameter Committee). Alexander argued against flat-rate retainers in favor of deliverable-based rolling RFPs to ensure tangible work is delivered.                                                 | Further alignment planned for the Parameter Committee session tomorrow to establish a low-friction, deliverable-verified payment process.                                                          |
+| Technical Review Pilot & Conflict of Interest Policy | Leandros confirmed that the conflict of interest policy for the WP3 technical review pilot had been revised and aligned with feedback. The next requirement is establishing reviewer selection criteria and launching an intake form ahead of early 2027 proposal reviews.                                                                  | Terence to create the reviewer application form in ClickUp using criteria provided by Leandros.                                                                                                    |
+| Minimum Fee Report & Security Handling               | Alexander reported that nine responses had been received regarding the min fee / min UTxO cost inquiry. Several respondents warned that lowering the minimum fee could expose protocol attack vectors.                                                                                                                                      | Feedback results to be kept within a restricted review group initially and shared with the Security Council before any broader or redacted publication.                                            |
+| Linear Layouts Protocol Kill Switch                  | Kevin raised the operational safety question of whether Linear Leios should include a parameter-level kill switch in addition to voluntary SPO de-adoption, as well as whether features should be active out of the box.                                                                                                                    | Discussion deferred to Slack and the Hard Fork Working Group to finalize technical fallback options.                                                                                               |
+| Meeting Schedule & Cancellations                     | Terence noted that the upcoming meeting date coincides with the London workshop and a US holiday. Kevin and Christian confirmed availability conflicts.                                                                                                                                                                                     | Next week's TSC meeting is officially cancelled; the committee will reconvene in two weeks.                                                                                                        |
